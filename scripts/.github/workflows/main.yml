@@ -1,0 +1,17 @@
+name: update-readme
+on:
+  schedule:
+    - cron: "30 14 * * *" # Runs every day at 6 AM
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Run update_readme.py
+        run: |
+          python scripts/update_readme.py
