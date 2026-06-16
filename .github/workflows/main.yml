@@ -1,7 +1,7 @@
 name: update-readme
 on:
   schedule:
-    - cron: "49 12 * * *" # Runs every day at 12:49 AM UTC
+    - cron: "50 14 * * *" # Runs every day at 12:49 AM UTC
       timezone: "Europe/Paris"
 jobs:
   update-readme:
