@@ -2,12 +2,9 @@ name: update-readme
 permissions:
   contents: write
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day at 00:00 UTC
+    - cron: "39 13 * * *" # Runs once a day at 13:39 UTC (15:39 in Paris during DST)
 jobs:
   update-readme:
     runs-on: ubuntu-latest
