@@ -8,5 +8,10 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 | Company | Mission | Duration | Contact | Link |
 | :-----: | :-----: | :------: | :-----: | :--: |
-
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
 <!-- Fin des offres pour le CANADA -->
