@@ -2,7 +2,7 @@ import requests
 
 def scrape_offers():
     payload = {
-        "limit": 6,
+        "limit": 100,
         "skip": 0,
         "query": None,
         "specializationsIds": ["24"],
