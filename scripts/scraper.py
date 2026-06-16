@@ -34,8 +34,8 @@ def scrape_offers():
         # Scrape the product details
         response = requests.post("https://civiweb-api-prd.azurewebsites.net/api/Offers/search", headers=headers, json=payload)
         offers = response.json().get('result')
-        the_offer={}
         for offer in offers:
+            the_offer={}
             pays = offer.get('countryNameEn')
             if pays not in offers_details:
                 offers_details[pays] = []
