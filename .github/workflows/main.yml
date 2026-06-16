@@ -1,7 +1,7 @@
 name: update-readme
 on:
   schedule:
-    - cron: "41 14 * * *" # Runs every day at 2:42 PM
+    - cron: "45 12 * * *" # Runs every day at 12:45 PM
 jobs:
   update-readme:
     runs-on: ubuntu-latest
