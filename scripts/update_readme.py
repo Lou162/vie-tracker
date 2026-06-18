@@ -10,9 +10,11 @@ def update_readme():
     readme_file = open("./README.md","r+",encoding = "utf-8")
     readme_lines = readme_file.readlines()
     dateLine = readme_lines.index("<!-- Date de mise à jour -->\n")
-    readme_lines[dateLine+2] = f"**Dernière mise à jour:** {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n"
+    readme_lines[dateLine+2] = f"**Dernière mise à jour:** {datetime.now().strftime('%d/%m/%Y')}\n"
     for country, offers in result.items():
         print(f"Updating offers for {country}...")
+        title_line = readme_lines.index(f"<!-- Title {country} -->\n")
+        readme_lines[title_line+2] = f"## {country} <span style='color:gray'>({len(offers)} offres)</span>\n"
         line = readme_lines.index(f"<!-- Ici les offres pour le {country} -->\n")
         end_line = readme_lines.index(f"<!-- Fin des offres pour le {country} -->\n")
         offers_details=[]
