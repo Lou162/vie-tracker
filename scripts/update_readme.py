@@ -17,6 +17,10 @@ def update_readme():
         end_line = readme_lines.index(f"<!-- Fin des offres pour le {country} -->\n")
         offers_details=[]
         for offer in offers:
+            if(offer['link'] == ""):
+                offer['link'] = "N/A"
+            else:
+                offer['link'] = f"[Lien]({offer['link']})"
             offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
             print(f"Adding offer: {offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}")
         readme_lines[line+4:end_line] = offers_details
