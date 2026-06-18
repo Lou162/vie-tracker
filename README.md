@@ -3,8 +3,12 @@
 Daily scraper that collects and tracks IT VIE opportunities across multiple countries, starting with the Netherlands, United Kingdom, United States, and Canada.
 
 <!-- Date de mise à jour -->
-**Dernière mise à jour:** 18/06/2026 09:29:03
-## CANADA
+
+**Dernière mise à jour:** 18/06/2026
+
+<!-- Title CANADA -->
+
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -19,12 +23,15 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | 24 |  | https:/
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | https://smrtr.io/z4zSQ
 <!-- Fin des offres pour le CANADA -->
-## BELGIUM
+
+<!-- Title BELGIUM -->
+
+## BELGIUM <span style='color:gray'>(24 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
-| Company | Mission | Duration | Contact | Link |
-| :-----: | :-----: | :------: | :-----: | :--: |
+|                Company                |                       Mission                       | Duration |                 Contact                 |                                                                                                                              Link                                                                                                                               |
+| :-----------------------------------: | :-------------------------------------------------: | :------: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | 12 | igarcia@mca-groupe.com | 
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | 12 | yanis.messaoudi-ext@bostik.com | 
 DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | 12 | elodie.laurent@davidson.be | 
