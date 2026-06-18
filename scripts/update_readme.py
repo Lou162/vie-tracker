@@ -1,4 +1,5 @@
 from scraper import scrape_offers
+from datetime import datetime
 
 def update_readme():
     print("Updating README.md with the latest offers...")
@@ -8,6 +9,8 @@ def update_readme():
         return
     readme_file = open("./README.md","r+",encoding = "utf-8")
     readme_lines = readme_file.readlines()
+    dateLine = readme_lines.index("<!-- Date de mise à jour -->\n")
+    readme_lines[dateLine+1] = f"**Dernière mise à jour:** {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n"
     for country, offers in result.items():
         print(f"Updating offers for {country}...")
         line = readme_lines.index(f"<!-- Ici les offres pour le {country} -->\n")
