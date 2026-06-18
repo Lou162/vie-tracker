@@ -6,15 +6,11 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 **Dernière mise à jour:** 18/06/2026
 
-<!-- Sommaire -->
-
-1. [CANADA <span style='color:gray'>(8 offres)</span>](#canada-span-style-color-gray-8-offres-span)
-2. [Belgium](#belgium-span-style-color-gray-24-offres-span)
-
 <!-- Title CANADA -->
 
 ## CANADA <span style='color:gray'>(8 offres)</span>
 
+<details>
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                                          Mission                                           | Duration |         Contact          |                                          Link                                          |
@@ -29,7 +25,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 |    CS GROUP - FRANCE    | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) |    24    |                          |                                 https://smrtr.io/z4zSQ                                 |
 
 <!-- Fin des offres pour le CANADA -->
-
+</details>
 <!-- Title BELGIUM -->
 
 ## BELGIUM <span style='color:gray'>(24 offres)</span>
