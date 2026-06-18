@@ -2,12 +2,14 @@
 
 Daily scraper that collects and tracks IT VIE opportunities across multiple countries, starting with the Netherlands, United Kingdom, United States, and Canada.
 
+<!-- Date de mise à jour -->
+**Dernière mise à jour:** 18/06/2026 07:36:44
 ## CANADA
 
 <!-- Ici les offres pour le CANADA -->
 
-| Company | Mission | Duration | Contact | Link |
-| :-----: | :-----: | :------: | :-----: | :--: |
+|         Company         |                                          Mission                                           | Duration |         Contact          |                                          Link                                          |
+| :---------------------: | :----------------------------------------------------------------------------------------: | :------: | :----------------------: | :------------------------------------------------------------------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | 24 | bduval@citypassenger.com | rh@citypassenger.com
 EXTIA | Analyste fonctionnel (H/F) | 24 | ytoussaint@extia.ca | 
 EXTIA | DÉVOPS (H/F) | 24 | ytoussaint@extia.ca | 
