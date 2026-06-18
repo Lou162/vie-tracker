@@ -7,7 +7,7 @@ def scrape_offers():
         "query": None,
         "specializationsIds": ["24"],
         "missionsTypesIds": ["VIE"],
-        "countriesIds": ["CA"],
+        "countriesIds": ["CA", "BE"],
         "geographicZones": ["2", "5"],
         "entreprisesIds": [0],
         "porteEnv": ["0"],
