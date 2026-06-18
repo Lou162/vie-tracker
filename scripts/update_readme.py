@@ -10,7 +10,7 @@ def update_readme():
     readme_file = open("./README.md","r+",encoding = "utf-8")
     readme_lines = readme_file.readlines()
     dateLine = readme_lines.index("<!-- Date de mise à jour -->\n")
-    readme_lines[dateLine+1] = f"**Dernière mise à jour:** {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n"
+    readme_lines[dateLine+2] = f"**Dernière mise à jour:** {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n"
     for country, offers in result.items():
         print(f"Updating offers for {country}...")
         line = readme_lines.index(f"<!-- Ici les offres pour le {country} -->\n")
@@ -21,8 +21,12 @@ def update_readme():
                 offer['link'] = "N/A"
             else:
                 offer['link'] = f"[Lien]({offer['link']})"
-            offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
-            print(f"Adding offer: {offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}")
+
+            if(country == "🏆most Recent 🏆"):
+                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['country']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
+            else:    
+                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
+                print(f"Adding offer: {offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}")
         readme_lines[line+4:end_line] = offers_details
     readme_file.close()
     readme_file = open("./README.md","w+",encoding = "utf-8")
