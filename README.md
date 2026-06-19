@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 18/06/2026 21:09:31
+**Dernière mise à jour:** 19/06/2026 06:47:04
 
 ## 🏆most Recent 🏆
 
@@ -63,6 +63,4 @@ AMARIS FRANCE SAS | Cybersecurity IAM Engineer (H/F) | 24 | mappadoo@amaris.com 
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | 12 | come.thuilliez@advans-group.com | N/A
 ELSYS DESIGN | Embedded Software Engineer (H/F) | 12 | claire-victoria.carles@advans-group.com | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | 24 | come.thuilliez@advans-group.com | N/A
-NAVAL GROUP | IT Support Engineer - (H/F) | 12 | yves.labey@naval-group.com | N/A
-AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | 12 |  | [Lien](https://apply.creamconsulting.com/?pid=fPc5d57rhICd9pgHIACJTF37tTK2NMDkDeTzm%2F5hgmE%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ZBLK2LjLRATcvv19sOcdvp9ULDZNV1LLOie9KegIeLn27KgRlUqrYtPsYu9KFjZ4&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXM)
 <!-- Fin des offres pour le BELGIUM -->
