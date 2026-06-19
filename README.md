@@ -4,9 +4,11 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 19/06/2026 07:15:44
+**Dernière mise à jour:** 19/06/2026
 
-## 🏆most Recent 🏆
+<!-- Title 🏆most Recent 🏆 -->
+
+## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
@@ -18,7 +20,9 @@ FORTIL GROUP | PROJECT ENGINEER (H/F) | BELGIUM | 12 | jehanne.ravel@fortil.grou
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | BELGIUM | 12 | jehanne.ravel@fortil.group | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
-## CANADA
+<!-- Title CANADA -->
+
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -34,12 +38,14 @@ CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDA
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | 24 |  | [Lien](https://smrtr.io/z4zSQ)
 <!-- Fin des offres pour le CANADA -->
 
-## BELGIUM
+<!-- Title BELGIUM -->
+
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
-|                Company                |                       Mission                       | Duration |                 Contact                 |                                                                                                                                  Link                                                                                                                                   |
-| :-----------------------------------: | :-------------------------------------------------: | :------: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                Company                |                       Mission                       | Duration |                 Contact                 |                                                                                                                              Link                                                                                                                               |
+| :-----------------------------------: | :-------------------------------------------------: | :------: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | 12 |  | [Lien](https://apply.creamconsulting.com/?pid=9JgF7Tx0gs%2BMRCZPqjuGCZxHvUF60fAPhod2V4q0yK0%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ak9eD4yxwhLuuPDNemtsuyJmAFmChwZCELqiidxOIEk%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | 12 | igarcia@mca-groupe.com | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | 12 | yanis.messaoudi-ext@bostik.com | N/A
