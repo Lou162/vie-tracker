@@ -46,7 +46,6 @@ def scrape_offers():
 def getMostRecentOffers(offers):
     others_offer=[]
     max_date = max(datetime.fromisoformat(offer["creationDate"]).date() for offer in offers)
-    print(f"Max date: {max_date}")
     offers_details = {}
     for offer in offers:
         the_offer={}
@@ -55,16 +54,23 @@ def getMostRecentOffers(offers):
             the_offer['mission'] = offer.get('missionTitle')
             the_offer['location'] = offer.get('cityNameEn')
             the_offer['duration'] = offer.get('missionDuration')
-            the_offer['contact'] = offer.get('contactEmail')
+            the_offer['contact'] = transformContactEmailToLink(offer.get('contactEmail'), False)
             the_offer['country'] = offer.get('countryNameEn')
-            the_offer['link'] = offer.get('contactURL')
+            the_offer['link'] = transformContactEmailToLink(offer.get('contactURL'), True)
             if '🏆most Recent 🏆' not in offers_details:
                 offers_details['🏆most Recent 🏆'] = []
             offers_details['🏆most Recent 🏆'].append(the_offer)
         else:
             others_offer.append(offer)
-    print(offers_details['🏆most Recent 🏆'])
     return offers_details, others_offer
+
+def transformContactEmailToLink(link, isLink=False):
+    if(link == ""):
+        return "N/A"
+    elif(isLink):
+        return f"[Lien]({link})"
+    else:
+        return f"[{link}]({link})"
 
 def getOffersByCountry(offers_details, offers):
     for offer in offers:
@@ -76,8 +82,7 @@ def getOffersByCountry(offers_details, offers):
         the_offer['mission'] = offer.get('missionTitle')
         the_offer['location'] = offer.get('cityNameEn')
         the_offer['duration'] = offer.get('missionDuration')
-        the_offer['contact'] = offer.get('contactEmail')
-        the_offer['link'] = offer.get('contactURL')
+        the_offer['contact'] = transformContactEmailToLink(offer.get('contactEmail'), False)
+        the_offer['link'] = transformContactEmailToLink(offer.get('contactURL'), True)
         offers_details[offer.get('countryNameEn')].append(the_offer)
-    print(offers_details['🏆most Recent 🏆'])
     return offers_details
