@@ -82,4 +82,4 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 |             ELSYS DESIGN              |         Digital Verification Engineer (H/F)         | [BF](https://mon-vie-via.businessfrance.fr/offres/243224) |         [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com)         |                                                                                                                                   N/A                                                                                                                                   |
 
 <!-- Fin des offres pour le BELGIUM -->
-<details>
+</details>
