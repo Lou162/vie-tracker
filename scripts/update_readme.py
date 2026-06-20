@@ -37,7 +37,7 @@ def updateDate(readme_lines):
 
 def updateCountOffers(country, offers, readme_lines):
     title_line = readme_lines.index(f"<!-- Title {country} -->\n")
-    readme_lines[title_line+2] = f"## {country} <span style='color:gray'>({len(offers)} offres)</span>\n"
+    readme_lines[title_line+2] = f"## <a id='{country.lower().replace(' ', '-')}'></a> {country} <span style='color:gray'>({len(offers)} offres)</span>\n"
 
 update_readme()
 

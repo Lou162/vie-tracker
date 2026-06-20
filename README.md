@@ -6,9 +6,13 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 **Dernière mise à jour:** 20/06/2026
 
+- [🏆most Recent 🏆](#🏆most-recent-🏆)
+- [CANADA](#canada)
+- [BELGIUM](#belgium)
+
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(5 offres)</span>
+## <a id='🏆most-recent-🏆'></a> 🏆most Recent 🏆 <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
@@ -24,8 +28,9 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(8 offres)</span>
+## <a id='canada'></a> CANADA <span style='color:gray'>(8 offres)</span>
 
+<details>
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                                          Mission                                           |                          bf_link                          |                       Contact                        |                                              Link                                              |
@@ -40,11 +45,13 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 |    CS GROUP - FRANCE    | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243395) |                         N/A                          |                                 [Lien](https://smrtr.io/z4zSQ)                                 |
 
 <!-- Fin des offres pour le CANADA -->
+</details>
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(24 offres)</span>
+## <a id='belgium'></a> BELGIUM <span style='color:gray'>(24 offres)</span>
 
+<details>
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
@@ -75,3 +82,4 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 |             ELSYS DESIGN              |         Digital Verification Engineer (H/F)         | [BF](https://mon-vie-via.businessfrance.fr/offres/243224) |         [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com)         |                                                                                                                                   N/A                                                                                                                                   |
 
 <!-- Fin des offres pour le BELGIUM -->
+<details>
