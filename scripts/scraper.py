@@ -53,7 +53,7 @@ def getMostRecentOffers(offers):
             the_offer['company'] = offer.get('organizationName')
             the_offer['mission'] = offer.get('missionTitle')
             the_offer['location'] = offer.get('cityNameEn')
-            the_offer['duration'] = offer.get('missionDuration')
+            the_offer['bf_link'] = f"[BF](https://mon-vie-via.businessfrance.fr/offres/{offer.get('id')})"
             the_offer['contact'] = transformContactEmailToLink(offer.get('contactEmail'), False)
             the_offer['country'] = offer.get('countryNameEn')
             the_offer['link'] = transformContactEmailToLink(offer.get('contactURL'), True)
@@ -81,7 +81,7 @@ def getOffersByCountry(offers_details, offers):
         the_offer['company'] = offer.get('organizationName')
         the_offer['mission'] = offer.get('missionTitle')
         the_offer['location'] = offer.get('cityNameEn')
-        the_offer['duration'] = offer.get('missionDuration')
+        the_offer['bf_link'] = f"[BF](https://mon-vie-via.businessfrance.fr/offres/{offer.get('id')})"
         the_offer['contact'] = transformContactEmailToLink(offer.get('contactEmail'), False)
         the_offer['link'] = transformContactEmailToLink(offer.get('contactURL'), True)
         offers_details[offer.get('countryNameEn')].append(the_offer)
