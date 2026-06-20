@@ -4,16 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 19/06/2026
+**Dernière mise à jour:** 20/06/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company    |              Mission              | Country | Duration |          Contact           | Link |
 | :----------: | :-------------------------------: | :-----: | :------: | :------------------------: | ---- |
+ACENSI SAS | DEVELOPPEUR FULL-STACK (JAVA/ANGULAR) (H/F) | CANADA | 24 | etienne.nicolas@acensi.ca | N/A
 FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | BELGIUM | 12 | jehanne.ravel@fortil.group | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | BELGIUM | 12 | jehanne.ravel@fortil.group | N/A
 FORTIL GROUP | PROJECT ENGINEER (H/F) | BELGIUM | 12 | jehanne.ravel@fortil.group | N/A
