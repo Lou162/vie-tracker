@@ -18,9 +18,9 @@ def update_readme():
         offers_details=[]
         for offer in offers:
             if(country == "🏆most Recent 🏆"):
-                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['country']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
+                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['country']} | {offer['bf_link']} | {offer['contact']} | {offer['link']}\n")
             else:    
-                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['duration']} | {offer['contact']} | {offer['link']}\n")
+                offers_details.append(f"{offer['company']} | {offer['mission']} | {offer['bf_link']} | {offer['contact']} | {offer['link']}\n")
         readme_lines[line+4:end_line] = offers_details
     readme_file.close()
     readme_file = open("./README.md","w+",encoding = "utf-8")
