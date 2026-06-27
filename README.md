@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 26/06/2026
+**Dernière mise à jour:** 27/06/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,18 +14,19 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company    |                   Mission                   | Country |                          bf_link                          |                         Contact                          | Link |
 | :----------: | :-----------------------------------------: | :-----: | :-------------------------------------------------------: | :------------------------------------------------------: | ---- |
-SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
+INTM | ingénieur infrastructure/système (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244145) | [younes.barch@intm.fr](younes.barch@intm.fr) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(10 offres)</span>
+## CANADA <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                                          Mission                                           |                          bf_link                          |                       Contact                        |                                              Link                                              |
 | :---------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
 FRATECH RP | Business Manager à Toronto (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244013) | [eleonore.testas@houseofaby.com](eleonore.testas@houseofaby.com) | N/A
 ACENSI SAS | DEVELOPPEUR FULL-STACK (JAVA/ANGULAR) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [etienne.nicolas@acensi.ca](etienne.nicolas@acensi.ca) | N/A
 EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243759) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
@@ -39,7 +40,7 @@ CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDA
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(24 offres)</span>
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -68,5 +69,4 @@ NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.busin
 MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
-FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243303) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 <!-- Fin des offres pour le BELGIUM -->
