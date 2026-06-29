@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 28/06/2026
+**Dernière mise à jour:** 29/06/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
