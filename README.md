@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 30/06/2026
+**Dernière mise à jour:** 01/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,18 +14,20 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company    |                   Mission                   | Country |                          bf_link                          |                         Contact                          | Link |
 | :----------: | :-----------------------------------------: | :-----: | :-------------------------------------------------------: | :------------------------------------------------------: | ---- |
-FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244156) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(10 offres)</span>
+## CANADA <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                                          Mission                                           |                          bf_link                          |                       Contact                        |                                              Link                                              |
 | :---------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
+ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
 SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
 FRATECH RP | Business Manager à Toronto (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244013) | [eleonore.testas@houseofaby.com](eleonore.testas@houseofaby.com) | N/A
 EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243759) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
@@ -39,15 +41,22 @@ CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDA
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(24 offres)</span>
+## BELGIUM <span style='color:gray'>(27 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
+ELSYS DESIGN | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243227) | [claire-victoria.carles@advans-group.com](claire-victoria.carles@advans-group.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
+MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
+NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
+FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244156) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | C, C++ Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242650) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kUgJCNl3taTHYK%2BYHxZW7wq2KV8QorUFEsc6%2BIDz%2Fiw%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D)
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242625) | N/A | [Lien](https://apply.creamconsulting.com/?pid=9JgF7Tx0gs%2BMRCZPqjuGCZxHvUF60fAPhod2V4q0yK0%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ak9eD4yxwhLuuPDNemtsuyJmAFmChwZCELqiidxOIEk%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
@@ -65,8 +74,4 @@ AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mo
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
-MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
