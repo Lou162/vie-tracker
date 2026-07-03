@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 02/07/2026
+**Dernière mise à jour:** 03/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -39,12 +39,13 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(27 offres)</span>
+## BELGIUM <span style='color:gray'>(28 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243227) | [claire-victoria.carles@advans-group.com](claire-victoria.carles@advans-group.com) | N/A
