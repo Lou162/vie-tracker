@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 04/07/2026
+**Dernière mise à jour:** 05/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,7 +19,7 @@ PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | BE
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(10 offres)</span>
+## CANADA <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -34,7 +34,6 @@ EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/
 EXTIA | DÉVOPS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243752) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 ALSTOM TRANSPORT SA | RAMS Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job/Saint-Bruno-VIE-RAMS-Engineer-%28mf%29-QC/1401763533/)
-CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243495) | N/A | [Lien](https://smrtr.io/z8xHw)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
