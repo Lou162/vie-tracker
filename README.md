@@ -72,3 +72,61 @@ AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mo
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
+
+<!-- Title GREAT BRITAIN -->
+
+## GREAT BRITAIN <span style='color:gray'>(0 offres)</span>
+
+<!-- Ici les offres pour le GREAT BRITAIN -->
+
+| Company | Mission | bf_link | Contact | Link |
+| :-----: | :-----: | :-----: | :-----: | :--: |
+
+<!-- Fin des offres pour le GREAT BRITAIN -->
+
+<!-- Title UNITED STATES -->
+
+## UNITED STATES <span style='color:gray'>(13 offres)</span>
+
+<!-- Ici les offres pour le UNITED STATES -->
+
+|              Company               |                      Mission                       |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
+| :--------------------------------: | :------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|       SAGEMCOM BROADBAND SAS       |        SOFTWARE DEVELOPMENT ENGINEER (H/F)         | [BF](https://mon-vie-via.businessfrance.fr/offres/243321) |        [emilie.beuzeboc@sagemcom.com](emilie.beuzeboc@sagemcom.com)        |                                                              N/A                                                              |
+|        ALSTOM TRANSPORT SA         |            Deputy Program Manager (H/F)            | [BF](https://mon-vie-via.businessfrance.fr/offres/243862) |                                    N/A                                     |                                    [Lien](https://jobsearch.alstom.com/job-invite/518428/)                                    |
+|            GITGUARDIAN             |       Chief of Staff - New York - USA (H/F)        | [BF](https://mon-vie-via.businessfrance.fr/offres/243408) |                                    N/A                                     |                  [Lien](https://careers.gitguardian.com/jobs/internal/0cc01376-12a8-46c2-9c30-7da693150583)                   |
+|            WATT ET WELL            |          Embedded Software Engineer (H/F)          | [BF](https://mon-vie-via.businessfrance.fr/offres/240149) | [evelyn.legra-brauet@wattandwell.com](evelyn.legra-brauet@wattandwell.com) |                                               [Lien](https://wattandwell.com/)                                                |
+|               AIRBUS               |      Cyber project manager - USA region (H/F)      | [BF](https://mon-vie-via.businessfrance.fr/offres/243662) |                                    N/A                                     | [Lien](https://ag.wd3.myworkdayjobs.com/Airbus/job/Washington-DC/VIE---Cyber-project-manager---USA-region--F-M-X-_JR10403880) |
+|             PLANISWARE             |   CONSULTANT(E) (M/F) (H/F) - San Francisco, CA    | [BF](https://mon-vie-via.businessfrance.fr/offres/243630) |                [plwhr@planisware.com](plwhr@planisware.com)                |                                                              N/A                                                              |
+|               FORSK                | SOFTWARE QA & TEST AUTOMATION ENGINEER (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232979) |                       [job@forsk.com](job@forsk.com)                       |                                                              N/A                                                              |
+|             PLANISWARE             |             CONSULTANT(E) (M/F) (H/F)              | [BF](https://mon-vie-via.businessfrance.fr/offres/236566) |                [plwhr@planisware.com](plwhr@planisware.com)                |                                                              N/A                                                              |
+|             PLANISWARE             |    CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA    | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) |                [plwhr@planisware.com](plwhr@planisware.com)                |                                                              N/A                                                              |
+|          TOTALENERGIES SE          |                Data Scientist (H/F)                | [BF](https://mon-vie-via.businessfrance.fr/offres/243367) |                                    N/A                                     |              [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Data-Scientist-USA-Houston/80690)              |
+|                YOOZ                |         Production Software Analyst (H/F)          | [BF](https://mon-vie-via.businessfrance.fr/offres/242406) |                                    N/A                                     |     [Lien](https://careers.getyooz.com/en/jobs/7119297-production-software-analyst/17030d50-d3a2-4628-8213-58b6f229cb6c)      |
+|                YOOZ                |           Cloud Operation Engineer (H/F)           | [BF](https://mon-vie-via.businessfrance.fr/offres/242405) |                                    N/A                                     |   [Lien](https://careers.getyooz.com/en/jobs/7594203-cloud-operation-engineer-vie-us/006edfd6-3755-4325-8ab5-c8b35a3bc884)    |
+| M&L DISTRIBUTION (FRANCE) S.A.R.L. |               UX / UI Designer (H/F)               | [BF](https://mon-vie-via.businessfrance.fr/offres/243258) |             [nacareers@loccitane.com](nacareers@loccitane.com)             |                                                              N/A                                                              |
+
+<!-- Fin des offres pour le UNITED STATES -->
+
+<!-- Title SWITZERLAND -->
+
+## SWITZERLAND <span style='color:gray'>(1 offres)</span>
+
+<!-- Ici les offres pour le SWITZERLAND -->
+
+|  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
+| :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| CLEEVEN ND | Business Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243375) | [christian.desforges@cleeven.com](christian.desforges@cleeven.com) | [Lien](https://www.cleeven.com/nos-offres-emploi/offre-demploi-business-engineer-cdi-t2rw02rx7h.html) |
+
+<!-- Fin des offres pour le SWITZERLAND -->
+
+<!-- Title NETHERLAND -->
+
+## NETHERLAND <span style='color:gray'>(0 offres)</span>
+
+<!-- Ici les offres pour le NETHERLAND -->
+
+| Company | Mission | bf_link | Contact | Link |
+| :-----: | :-----: | :-----: | :-----: | :--: |
+
+<!-- Fin des offres pour le NETHERLAND -->
