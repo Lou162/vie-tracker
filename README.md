@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 06/07/2026
+**Dernière mise à jour:** 07/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,20 +19,19 @@ PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | BE
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(9 offres)</span>
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                                          Mission                                           |                          bf_link                          |                       Contact                        |                                              Link                                              |
 | :---------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
 ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
 SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
-FRATECH RP | Business Manager à Toronto (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244013) | [eleonore.testas@houseofaby.com](eleonore.testas@houseofaby.com) | N/A
 EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243759) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
 EXTIA | DÉVOPS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243752) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
-REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 ALSTOM TRANSPORT SA | RAMS Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job/Saint-Bruno-VIE-RAMS-Engineer-%28mf%29-QC/1401763533/)
 <!-- Fin des offres pour le CANADA -->
 
@@ -44,6 +43,7 @@ ALSTOM TRANSPORT SA | RAMS Engineer (H/F) | [BF](https://mon-vie-via.businessfra
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
@@ -71,5 +71,4 @@ DAVIDSON NORD | DATA SCIENTIST (H/F) | [BF](https://mon-vie-via.businessfrance.f
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
