@@ -73,16 +73,16 @@ SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offr
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
-<!-- Title GREAT BRITAIN -->
+<!-- Title UNITED KINGDOM -->
 
-## GREAT BRITAIN <span style='color:gray'>(0 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(0 offres)</span>
 
-<!-- Ici les offres pour le GREAT BRITAIN -->
+<!-- Ici les offres pour le UNITED KINGDOM -->
 
 | Company | Mission | bf_link | Contact | Link |
 | :-----: | :-----: | :-----: | :-----: | :--: |
 
-<!-- Fin des offres pour le GREAT BRITAIN -->
+<!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
 
