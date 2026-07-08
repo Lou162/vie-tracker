@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 07/07/2026
+**Dernière mise à jour:** 08/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,12 +14,12 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company    |                   Mission                   | Country |                          bf_link                          |                         Contact                          | Link |
 | :----------: | :-----------------------------------------: | :-----: | :-------------------------------------------------------: | :------------------------------------------------------: | ---- |
-PER SE BEAUTY | AI Builder (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
+RSL HOLDING | Ingénieur Programmeur CN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(8 offres)</span>
+## CANADA <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -31,7 +31,6 @@ ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/o
 ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
 SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
 EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243759) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
-EXTIA | DÉVOPS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243752) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
 ALSTOM TRANSPORT SA | RAMS Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job/Saint-Bruno-VIE-RAMS-Engineer-%28mf%29-QC/1401763533/)
 <!-- Fin des offres pour le CANADA -->
 
@@ -88,12 +87,13 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |              Company               |                      Mission                       |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------------------: | :------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236566) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
