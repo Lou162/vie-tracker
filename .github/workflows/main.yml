@@ -59,4 +59,4 @@ jobs:
         env:
           DISCORD_BOT_URL: ${{ secrets.DISCORD_BOT_URL }}
         run: |
-          python scripts/send_notification.py
+          python scripts/notifDiscord.py
