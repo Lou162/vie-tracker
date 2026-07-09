@@ -58,5 +58,6 @@ jobs:
       - name: Run send_notification.py
         env:
           DISCORD_BOT_URL: ${{ secrets.DISCORD_BOT_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
         run: |
           python scripts/notifDiscord.py
