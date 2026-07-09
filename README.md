@@ -12,8 +12,8 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
-|   Company    |                   Mission                   | Country |                          bf_link                          |                         Contact                          | Link |
-| :----------: | :-----------------------------------------: | :-----: | :-------------------------------------------------------: | :------------------------------------------------------: | ---- |
+|   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
+| :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
 RSL HOLDING | Ingénieur Programmeur CN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
@@ -23,8 +23,8 @@ RSL HOLDING | Ingénieur Programmeur CN (H/F) | BELGIUM | [BF](https://mon-vie-v
 
 <!-- Ici les offres pour le CANADA -->
 
-|         Company         |                                          Mission                                           |                          bf_link                          |                       Contact                        |                                              Link                                              |
-| :---------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
+| :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
@@ -78,8 +78,8 @@ SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.b
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
-| Company | Mission | bf_link | Contact | Link |
-| :-----: | :-----: | :-----: | :-----: | :--: |
+|      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
+| :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
@@ -90,8 +90,8 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Ici les offres pour le UNITED STATES -->
 
-|              Company               |                      Mission                       |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
-| :--------------------------------: | :------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
+| :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
@@ -115,13 +115,13 @@ AIRBUS | Cyber project manager - USA region (H/F) | [BF](https://mon-vie-via.bus
 CLEEVEN ND | Business Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243375) | [christian.desforges@cleeven.com](christian.desforges@cleeven.com) | [Lien](https://www.cleeven.com/nos-offres-emploi/offre-demploi-business-engineer-cdi-t2rw02rx7h.html)
 <!-- Fin des offres pour le SWITZERLAND -->
 
-<!-- Title NETHERLAND -->
+<!-- Title NETHERLANDS -->
 
-## NETHERLAND <span style='color:gray'>(0 offres)</span>
+## NETHERLANDS <span style='color:gray'>(1 offres)</span>
 
-<!-- Ici les offres pour le NETHERLAND -->
+<!-- Ici les offres pour le NETHERLANDS -->
 
 | Company | Mission | bf_link | Contact | Link |
 | :-----: | :-----: | :-----: | :-----: | :--: |
-
-<!-- Fin des offres pour le NETHERLAND -->
+ALTEN | Software Engineer C++ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237571) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
+<!-- Fin des offres pour le NETHERLANDS -->
