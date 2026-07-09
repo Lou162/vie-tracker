@@ -1,7 +1,11 @@
 import requests
+from dotenv import load_dotenv
+import os
 from datetime import datetime
 
 def scrape_offers():
+    load_dotenv()
+    api_key = os.getenv("API_KEY")
     payload = {
         "limit": 100,
         "skip": 0,
@@ -25,7 +29,8 @@ def scrape_offers():
         "Accept": "application/json",
         "Content-Type": "application/json; charset=utf-8",
         "Origin": "https://mon-vie-via.businessfrance.fr",
-        "Referer": "https://mon-vie-via.businessfrance.fr/"
+        "Referer": "https://mon-vie-via.businessfrance.fr/",
+        "x-api-key": api_key
     }
 
     # Get the product page content and create a sou
