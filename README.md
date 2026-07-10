@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 09/07/2026
+**Dernière mise à jour:** 10/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -86,7 +86,7 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -101,7 +101,6 @@ SAGEMCOM BROADBAND SAS | SOFTWARE DEVELOPMENT ENGINEER (H/F) | [BF](https://mon-
 ALSTOM TRANSPORT SA | Deputy Program Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243862) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518428/)
 GITGUARDIAN | Chief of Staff - New York - USA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243408) | N/A | [Lien](https://careers.gitguardian.com/jobs/internal/0cc01376-12a8-46c2-9c30-7da693150583)
 WATT ET WELL | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/240149) | [evelyn.legra-brauet@wattandwell.com](evelyn.legra-brauet@wattandwell.com) | [Lien](https://wattandwell.com/)
-AIRBUS | Cyber project manager - USA region (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243662) | N/A | [Lien](https://ag.wd3.myworkdayjobs.com/Airbus/job/Washington-DC/VIE---Cyber-project-manager---USA-region--F-M-X-_JR10403880)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
