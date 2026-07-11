@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 10/07/2026
+**Dernière mise à jour:** 11/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-RSL HOLDING | Ingénieur Programmeur CN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
+INTRINSEC SECURITE | Analyste SOC & CTI (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/244553) | [recrutement@intrinsec.com](recrutement@intrinsec.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -35,12 +35,13 @@ EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(29 offres)</span>
+## BELGIUM <span style='color:gray'>(30 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
@@ -86,12 +87,13 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(9 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+IKOS CONSULTING | Railway Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242141) | [arosi@ikosconsulting.com](arosi@ikosconsulting.com) | N/A
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
