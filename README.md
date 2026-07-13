@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 12/07/2026
+**Dernière mise à jour:** 13/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,7 +19,7 @@ INTRINSEC SECURITE | Analyste SOC & CTI (H/F) | CANADA | [BF](https://mon-vie-vi
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(6 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -30,12 +30,11 @@ REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](h
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
 ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
 SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
-EXTIA | Analyste fonctionnel (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243759) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(30 offres)</span>
+## BELGIUM <span style='color:gray'>(28 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -69,8 +68,6 @@ BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.bus
 DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242414) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 DAVIDSON NORD | DATA SCIENTIST (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242369) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
-SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -87,7 +84,7 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -102,7 +99,6 @@ YOOZ | Cloud Operation Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.
 SAGEMCOM BROADBAND SAS | SOFTWARE DEVELOPMENT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243321) | [emilie.beuzeboc@sagemcom.com](emilie.beuzeboc@sagemcom.com) | N/A
 ALSTOM TRANSPORT SA | Deputy Program Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243862) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518428/)
 GITGUARDIAN | Chief of Staff - New York - USA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243408) | N/A | [Lien](https://careers.gitguardian.com/jobs/internal/0cc01376-12a8-46c2-9c30-7da693150583)
-WATT ET WELL | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/240149) | [evelyn.legra-brauet@wattandwell.com](evelyn.legra-brauet@wattandwell.com) | [Lien](https://wattandwell.com/)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
