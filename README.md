@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 15/07/2026
+**Dernière mise à jour:** 16/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-RSL HOLDING | Ingénieur Programmeur CN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
+KEOLIS SA | HR coordinator project & data analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -34,13 +34,16 @@ SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) |
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(27 offres)</span>
+## BELGIUM <span style='color:gray'>(29 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
@@ -66,7 +69,6 @@ INTM | ingénieur infrastructure/système (H/F) | [BF](https://mon-vie-via.busin
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242414) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 DAVIDSON NORD | DATA SCIENTIST (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242369) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
-AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
