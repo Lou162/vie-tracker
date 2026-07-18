@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 17/07/2026
+**Dernière mise à jour:** 18/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,18 +14,19 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-KEOLIS SA | HR coordinator project & data analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
+SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/244675) | [peter.michaelides@safrangroup.com](peter.michaelides@safrangroup.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
 SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
@@ -71,24 +72,24 @@ FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.busine
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
-BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(7 offres)</span>
+## UNITED STATES <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 IKOS CONSULTING | Railway Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242141) | [arosi@ikosconsulting.com](arosi@ikosconsulting.com) | N/A
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
