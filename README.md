@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 18/07/2026
+**Dernière mise à jour:** 19/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -34,7 +34,7 @@ SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) |
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(28 offres)</span>
+## BELGIUM <span style='color:gray'>(24 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -64,10 +64,6 @@ NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.busin
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244156) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243909) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243907) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243906) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243905) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -83,7 +79,7 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(8 offres)</span>
+## UNITED STATES <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -96,7 +92,6 @@ CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://m
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 YOOZ | Production Software Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242406) | N/A | [Lien](https://careers.getyooz.com/en/jobs/7119297-production-software-analyst/17030d50-d3a2-4628-8213-58b6f229cb6c)
 YOOZ | Cloud Operation Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242405) | N/A | [Lien](https://careers.getyooz.com/en/jobs/7594203-cloud-operation-engineer-vie-us/006edfd6-3755-4325-8ab5-c8b35a3bc884)
-SAGEMCOM BROADBAND SAS | SOFTWARE DEVELOPMENT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243321) | [emilie.beuzeboc@sagemcom.com](emilie.beuzeboc@sagemcom.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
