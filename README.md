@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 20/07/2026
+**Dernière mise à jour:** 21/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,12 +14,12 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/244675) | [peter.michaelides@safrangroup.com](peter.michaelides@safrangroup.com) | N/A
+SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(5 offres)</span>
+## CANADA <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -28,8 +28,6 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | UNITED KINGDOM |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
-ASK LOCALA | VIE Data Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244152) | [job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com](job-hxcri0tnnbkvzb72cgffby@teamtailor-mail.com) | N/A
-SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244096) | [damien.lallemand@setec.com](damien.lallemand@setec.com) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
@@ -40,6 +38,7 @@ SETEC ADVICE & SERVICES | Ingénieur Systèmes de Transport  – Tramway (H/F) |
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243889) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242650) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kUgJCNl3taTHYK%2BYHxZW7wq2KV8QorUFEsc6%2BIDz%2Fiw%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D)
@@ -62,18 +61,19 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](htt
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244156) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(1 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+ENGIE GLOBAL MARKETS | VIE – Contract Management & Data Analyst (AI & Digitalisation) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244686) | [alexander.graves@engie.com](alexander.graves@engie.com) | N/A
+SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244675) | [peter.michaelides@safrangroup.com](peter.michaelides@safrangroup.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
