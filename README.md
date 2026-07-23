@@ -4,19 +4,20 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 22/07/2026
+**Dernière mise à jour:** 23/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-SERVICES TECHNIQUES SCHLUMBERGER | Ontology Engineer (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/244739) | [beneteau1@slb.com](beneteau1@slb.com) | N/A
-TOTALENERGIES SE | Data Scientist (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/244719) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Data-Scientist-H-F-USA-Houston/80690)
-SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
+FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244805) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244804) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | PROJECT ENGINEER (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244802) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244801) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -34,12 +35,16 @@ REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](h
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(23 offres)</span>
+## BELGIUM <span style='color:gray'>(24 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
 UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243889) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
@@ -54,15 +59,12 @@ SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfr
 RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244156) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -80,12 +82,15 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(7 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244784) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
+SERVICES TECHNIQUES SCHLUMBERGER | Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244739) | [beneteau1@slb.com](beneteau1@slb.com) | N/A
+TOTALENERGIES SE | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244719) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Data-Scientist-H-F-USA-Houston/80690)
 KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 IKOS CONSULTING | Railway Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242141) | [arosi@ikosconsulting.com](arosi@ikosconsulting.com) | N/A
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
