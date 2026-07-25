@@ -4,36 +4,36 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 24/07/2026
+**Dernière mise à jour:** 25/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
-GIE BNP PARIBAS CARDIF | VIE - Technical Application Manager - Bruxelles H/F (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/244847) | N/A | [Lien](https://bwelcome.hr.bnpparibas/fr_FR/externalcareers/JobDetails?jobId=95883&source=BNP+Paribas+website)
+CLEEVEN ND | Business Engineer (H/F) | SWITZERLAND | [BF](https://mon-vie-via.businessfrance.fr/offres/244887) | [christian.desforges@cleeven.com](christian.desforges@cleeven.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(3 offres)</span>
+## CANADA <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(28 offres)</span>
+## BELGIUM <span style='color:gray'>(29 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -58,6 +58,7 @@ AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.bus
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+GIE BNP PARIBAS CARDIF | VIE - Technical Application Manager - Bruxelles H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244847) | N/A | [Lien](https://bwelcome.hr.bnpparibas/fr_FR/externalcareers/JobDetails?jobId=95883&source=BNP+Paribas+website)
 RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 BAXTER S.A.S | Engineer - Compliance QA - PHARMA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243287) | [meriem_elouakad@baxter.com](meriem_elouakad@baxter.com) | N/A
