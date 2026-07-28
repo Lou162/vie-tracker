@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 27/07/2026
+**Dernière mise à jour:** 28/07/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -41,6 +41,9 @@ REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](h
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243227) | [claire-victoria.carles@advans-group.com](claire-victoria.carles@advans-group.com) | N/A
+SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
@@ -61,9 +64,6 @@ AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.b
 DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242414) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 DAVIDSON NORD | DATA SCIENTIST (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242369) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237194) | N/A | [Lien](https://apply.creamconsulting.com/?pid=fPc5d57rhICd9pgHIACJTF37tTK2NMDkDeTzm%2F5hgmE%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ZBLK2LjLRATcvv19sOcdvp9ULDZNV1LLOie9KegIeLn27KgRlUqrYtPsYu9KFjZ4&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXM)
-SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 GIE BNP PARIBAS CARDIF | VIE - Technical Application Manager - Bruxelles H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244847) | N/A | [Lien](https://bwelcome.hr.bnpparibas/fr_FR/externalcareers/JobDetails?jobId=95883&source=BNP+Paribas+website)
 RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
