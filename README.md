@@ -4,28 +4,31 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 31/07/2026
+**Dernière mise à jour:** 01/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | Junior Project Engineering Manager (H/F) | SWITZERLAND | [BF](https://mon-vie-via.businessfrance.fr/offres/244935) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/517353/)
+TOTALENERGIES RAFFINAGE CHIMIE | Digital Builder & Performance Solutions Developer (H/F) – Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245074) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Digital-Builder-Performance-Solutions-Developer-H-F-Belgique/82987)
+CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
+CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245044) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/0002f42a-cf6b-4cd1-be72-f34a7613b0c5-capgemini-v-i-e-plm-functional-consultant)
 ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
 REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243714) | [celia.gachtoum@rexel.com](celia.gachtoum@rexel.com) | N/A
@@ -86,7 +89,7 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(8 offres)</span>
+## UNITED STATES <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -96,7 +99,6 @@ CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://m
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244784) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 SERVICES TECHNIQUES SCHLUMBERGER | Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244739) | [beneteau1@slb.com](beneteau1@slb.com) | N/A
-TOTALENERGIES SE | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244719) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Data-Scientist-H-F-USA-Houston/80690)
 KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 IKOS CONSULTING | Railway Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242141) | [arosi@ikosconsulting.com](arosi@ikosconsulting.com) | N/A
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
@@ -104,12 +106,13 @@ PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/of
 
 <!-- Title SWITZERLAND -->
 
-## SWITZERLAND <span style='color:gray'>(1 offres)</span>
+## SWITZERLAND <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le SWITZERLAND -->
 
 |  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
 | :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+ALSTOM TRANSPORT SA | Junior Project Engineering Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244935) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/517353/)
 CLEEVEN ND | Business Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244887) | [christian.desforges@cleeven.com](christian.desforges@cleeven.com) | N/A
 <!-- Fin des offres pour le SWITZERLAND -->
 
