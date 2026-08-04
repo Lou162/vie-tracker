@@ -4,16 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 03/08/2026
+**Dernière mise à jour:** 04/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
 TOTALENERGIES RAFFINAGE CHIMIE | Digital Builder & Performance Solutions Developer (H/F) – Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245074) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Digital-Builder-Performance-Solutions-Developer-H-F-Belgique/82987)
 CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
@@ -42,11 +43,13 @@ REXEL DEVELOPPEMENT SAS | CYBERSECURITY AI AUTOMATION SPECIALIST  (H/F) | [BF](h
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244923) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242414) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 DAVIDSON NORD | DATA SCIENTIST (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242369) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243227) | [claire-victoria.carles@advans-group.com](claire-victoria.carles@advans-group.com) | N/A
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
@@ -60,8 +63,6 @@ FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.bus
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244804) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244802) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244801) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
 UCB PHARMA | Data Scientist spécialisé(e) en chimie (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244018) | N/A | [Lien](https://careers.ucb.com/global/en/job/93390/VIE-Data-Scientist-sp%C3%A9cialis%C3%A9-e-en-chimie)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243889) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
@@ -89,7 +90,7 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(7 offres)</span>
+## UNITED STATES <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -98,7 +99,6 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244784) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-SERVICES TECHNIQUES SCHLUMBERGER | Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244739) | [beneteau1@slb.com](beneteau1@slb.com) | N/A
 KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 IKOS CONSULTING | Railway Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242141) | [arosi@ikosconsulting.com](arosi@ikosconsulting.com) | N/A
 PER SE BEAUTY | AI Builder (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244342) | N/A | [Lien](https://prose.com/careers?ashby_jid=d93116e8-141d-461c-84dd-2bff654129af)
