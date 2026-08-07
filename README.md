@@ -4,29 +4,29 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 06/08/2026
+**Dernière mise à jour:** 07/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | Process & Method Engineer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245114) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/502096/)
-ORANGE | Analyste CyberSOC (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
+JOHNSON & JOHNSON MEDICAL SAS | Business/Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245159) | [jvera8@its.jnj.com](jvera8@its.jnj.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ORANGE | Analyste CyberSOC (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245044) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/0002f42a-cf6b-4cd1-be72-f34a7613b0c5-capgemini-v-i-e-plm-functional-consultant)
 ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
 ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
@@ -40,6 +40,7 @@ ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/o
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ALSTOM TRANSPORT SA | Process & Method Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245114) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/502096/)
 ALTRAN TECHNOLOGIES | Business Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245102) | [hanae.chahib@capgemini.com](hanae.chahib@capgemini.com) | N/A
 HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
@@ -70,7 +71,6 @@ AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](htt
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242625) | N/A | [Lien](https://apply.creamconsulting.com/?pid=9JgF7Tx0gs%2BMRCZPqjuGCZxHvUF60fAPhod2V4q0yK0%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ak9eD4yxwhLuuPDNemtsuyJmAFmChwZCELqiidxOIEk%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237194) | N/A | [Lien](https://apply.creamconsulting.com/?pid=fPc5d57rhICd9pgHIACJTF37tTK2NMDkDeTzm%2F5hgmE%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ZBLK2LjLRATcvv19sOcdvp9ULDZNV1LLOie9KegIeLn27KgRlUqrYtPsYu9KFjZ4&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXM)
 GIE BNP PARIBAS CARDIF | VIE - Technical Application Manager - Bruxelles H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244847) | N/A | [Lien](https://bwelcome.hr.bnpparibas/fr_FR/externalcareers/JobDetails?jobId=95883&source=BNP+Paribas+website)
-RSL HOLDING | Ingénieur Programmeur CN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244362) | [laura.orcese@reisel.be](laura.orcese@reisel.be) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
