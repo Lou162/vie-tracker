@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 10/08/2026
+**Dernière mise à jour:** 11/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-JOHNSON & JOHNSON MEDICAL SAS | Business/Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245159) | [jvera8@its.jnj.com](jvera8@its.jnj.com) | N/A
+SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/245142) | N/A | [Lien](https://app.skeeled.com/offer/c/6a743764a4c3a0a72d9b02d1?show_description=true&language=en)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -74,13 +74,12 @@ AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.bus
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(5 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
-SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245142) | N/A | [Lien](https://app.skeeled.com/offer/c/6a743764a4c3a0a72d9b02d1?show_description=true&language=en)
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 EKI METRICS | ADMINISTRATEUR SYSTÈMES ET RÉSEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242634) | N/A | [Lien](https://jobs.lever.co/ekimetrics/d8aa88dd-15c4-43a6-b1cf-da4e1571af08)
