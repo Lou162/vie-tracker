@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 11/08/2026
+**Dernière mise à jour:** 12/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -88,7 +88,7 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(6 offres)</span>
+## UNITED STATES <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -97,7 +97,6 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
-PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/236375) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244784) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 <!-- Fin des offres pour le UNITED STATES -->
