@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 13/08/2026
+**Dernière mise à jour:** 14/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/245142) | N/A | [Lien](https://app.skeeled.com/offer/c/6a743764a4c3a0a72d9b02d1?show_description=true&language=en)
+ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -34,12 +34,13 @@ ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/o
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(30 offres)</span>
+## BELGIUM <span style='color:gray'>(31 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ALSTOM TRANSPORT SA | Process & Method Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245114) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/502096/)
@@ -74,12 +75,13 @@ AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.bus
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(4 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245142) | N/A | [Lien](https://app.skeeled.com/offer/c/6a743764a4c3a0a72d9b02d1?show_description=true&language=en)
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 EKI METRICS | ADMINISTRATEUR SYSTÈMES ET RÉSEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242634) | N/A | [Lien](https://jobs.lever.co/ekimetrics/d8aa88dd-15c4-43a6-b1cf-da4e1571af08)
@@ -88,16 +90,17 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(5 offres)</span>
+## UNITED STATES <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
-PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244784) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 <!-- Fin des offres pour le UNITED STATES -->
 
