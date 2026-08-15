@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 14/08/2026
+**Dernière mise à jour:** 15/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
+SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engineer (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/245269) | [KBakiri@slb.com](KBakiri@slb.com) | [Lien](KBakiri@slb.com)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -26,10 +26,10 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mo
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 ORANGE | Analyste CyberSOC (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245044) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/0002f42a-cf6b-4cd1-be72-f34a7613b0c5-capgemini-v-i-e-plm-functional-consultant)
 ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
-ACENSI SAS | DEVELOPPEUR IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243935) | [benoit.bourcier@acensi.ca](benoit.bourcier@acensi.ca) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
@@ -90,7 +90,7 @@ SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(6 offres)</span>
+## UNITED STATES <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -101,7 +101,6 @@ PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie
 CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
-KEOLIS SA | HR coordinator project & data analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244546) | N/A | [Lien](https://careers.keolis.com/job-invite/84339/)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
