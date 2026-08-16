@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 15/08/2026
+**Dernière mise à jour:** 16/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -34,7 +34,7 @@ ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(31 offres)</span>
+## BELGIUM <span style='color:gray'>(26 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -66,11 +66,6 @@ FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.busine
 FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244802) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244801) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur Java / Angular (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243889) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
-AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242650) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kUgJCNl3taTHYK%2BYHxZW7wq2KV8QorUFEsc6%2BIDz%2Fiw%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D)
-AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242625) | N/A | [Lien](https://apply.creamconsulting.com/?pid=9JgF7Tx0gs%2BMRCZPqjuGCZxHvUF60fAPhod2V4q0yK0%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ak9eD4yxwhLuuPDNemtsuyJmAFmChwZCELqiidxOIEk%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
-AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237194) | N/A | [Lien](https://apply.creamconsulting.com/?pid=fPc5d57rhICd9pgHIACJTF37tTK2NMDkDeTzm%2F5hgmE%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ZBLK2LjLRATcvv19sOcdvp9ULDZNV1LLOie9KegIeLn27KgRlUqrYtPsYu9KFjZ4&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXM)
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
