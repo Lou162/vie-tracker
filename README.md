@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 16/08/2026
+**Dernière mise à jour:** 17/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -70,7 +70,7 @@ SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [B
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(5 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
@@ -80,7 +80,6 @@ SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | [B
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 EKI METRICS | ADMINISTRATEUR SYSTÈMES ET RÉSEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242634) | N/A | [Lien](https://jobs.lever.co/ekimetrics/d8aa88dd-15c4-43a6-b1cf-da4e1571af08)
-SAFRAN LANDING SYSTEMS | Ingénieur méthodes et outils (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244675) | [peter.michaelides@safrangroup.com](peter.michaelides@safrangroup.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
