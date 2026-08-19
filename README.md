@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 18/08/2026
+**Dernière mise à jour:** 19/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,7 +14,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engineer (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/245269) | [KBakiri@slb.com](KBakiri@slb.com) | [Lien](KBakiri@slb.com)
+ALTEN | Software Engineer (H/F) | NETHERLANDS | [BF](https://mon-vie-via.businessfrance.fr/offres/245290) | [micaelacristina.correiaguilherme@alten.com](micaelacristina.correiaguilherme@alten.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -34,12 +34,13 @@ ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(26 offres)</span>
+## BELGIUM <span style='color:gray'>(27 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
@@ -70,12 +71,13 @@ SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [B
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(4 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245269) | [KBakiri@slb.com](KBakiri@slb.com) | [Lien](KBakiri@slb.com)
 SOCIETE DE MECANIQUE DES TILLES | Junior Business Development Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245142) | N/A | [Lien](https://app.skeeled.com/offer/c/6a743764a4c3a0a72d9b02d1?show_description=true&language=en)
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
