@@ -4,16 +4,18 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 19/08/2026
+**Dernière mise à jour:** 20/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
+NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
 ALTEN | Software Engineer (H/F) | NETHERLANDS | [BF](https://mon-vie-via.businessfrance.fr/offres/245290) | [micaelacristina.correiaguilherme@alten.com](micaelacristina.correiaguilherme@alten.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
@@ -34,7 +36,7 @@ ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(27 offres)</span>
+## BELGIUM <span style='color:gray'>(26 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -66,7 +68,6 @@ FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.bus
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244804) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244802) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244801) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE | Junior IT Security Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244703) | [marie.monna@sii.be](marie.monna@sii.be) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
