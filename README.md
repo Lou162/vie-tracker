@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 22/08/2026
+**Dernière mise à jour:** 23/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -20,7 +20,7 @@ ALSTOM TRANSPORT SA | IS&T Operations and Training (H/F) | CANADA | [BF](https:/
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(6 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -31,7 +31,6 @@ ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mo
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 ORANGE | Analyste CyberSOC (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245044) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/0002f42a-cf6b-4cd1-be72-f34a7613b0c5-capgemini-v-i-e-plm-functional-consultant)
-ALSTOM TRANSPORT SA | Performance & Improvement Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244830) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/524378/)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
@@ -69,7 +68,7 @@ NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.busin
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(4 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
@@ -78,7 +77,6 @@ NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.busin
 SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245269) | [KBakiri@slb.com](KBakiri@slb.com) | [Lien](KBakiri@slb.com)
 BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244000) | [talent@blockchain.com](talent@blockchain.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
-EKI METRICS | ADMINISTRATEUR SYSTÈMES ET RÉSEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242634) | N/A | [Lien](https://jobs.lever.co/ekimetrics/d8aa88dd-15c4-43a6-b1cf-da4e1571af08)
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
