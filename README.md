@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 23/08/2026
+**Dernière mise à jour:** 24/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -98,14 +98,13 @@ CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://m
 
 <!-- Title SWITZERLAND -->
 
-## SWITZERLAND <span style='color:gray'>(2 offres)</span>
+## SWITZERLAND <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le SWITZERLAND -->
 
 |  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
 | :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 ALSTOM TRANSPORT SA | Junior Project Engineering Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244935) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/517353/)
-CLEEVEN ND | Business Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244887) | [christian.desforges@cleeven.com](christian.desforges@cleeven.com) | N/A
 <!-- Fin des offres pour le SWITZERLAND -->
 
 <!-- Title NETHERLANDS -->
