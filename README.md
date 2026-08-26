@@ -4,20 +4,18 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 25/08/2026
+**Dernière mise à jour:** 26/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-FORTIL GROUP | PROJECT ENGINEER (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+ALSTOM TRANSPORT SA | AI Engineer (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245394) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/523652/)
+EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -38,12 +36,20 @@ CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://m
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(23 offres)</span>
+## BELGIUM <span style='color:gray'>(27 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+TOTALENERGIES RAFFINAGE CHIMIE | Digital Builder & Performance Solutions Developer (H/F) – Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/245074) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Digital-Builder-Performance-Solutions-Developer-H-F-Belgique/82987)
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Team Leader Embedded Software (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242779) | N/A | [Lien](https://mca-groupe.com/fr-be/applicants/jobs/5394)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
@@ -54,13 +60,9 @@ NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.busin
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ALSTOM TRANSPORT SA | Process & Method Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245114) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/502096/)
 ALTRAN TECHNOLOGIES | Business Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245102) | [hanae.chahib@capgemini.com](hanae.chahib@capgemini.com) | N/A
 HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-TOTALENERGIES RAFFINAGE CHIMIE | Digital Builder & Performance Solutions Developer (H/F) – Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/245074) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Digital-Builder-Performance-Solutions-Developer-H-F-Belgique/82987)
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244923) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243227) | [claire-victoria.carles@advans-group.com](claire-victoria.carles@advans-group.com) | N/A
@@ -119,7 +121,7 @@ ALSTOM TRANSPORT SA | Junior Project Engineering Manager (H/F) | [BF](https://mo
 
 | Company | Mission | bf_link | Contact | Link |
 | :-----: | :-----: | :-----: | :-----: | :--: |
+ALTEN | Software Engineer C++ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237571) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
 ALTEN | Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245290) | [micaelacristina.correiaguilherme@alten.com](micaelacristina.correiaguilherme@alten.com) | N/A
 AVERTIM FRANCE | Quality Engineer Life Sciences (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243004) | [veronique.zwarts@avertim.be](veronique.zwarts@avertim.be) | N/A
-ALTEN | Software Engineer C++ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237571) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
 <!-- Fin des offres pour le NETHERLANDS -->
