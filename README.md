@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 29/08/2026
+**Dernière mise à jour:** 30/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -21,13 +21,14 @@ AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | BELGIUM | [BF](https://mon
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(6 offres)</span>
+## CANADA <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+EXTIA | DÉVOPS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243752) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
 ALSTOM TRANSPORT SA | IS&T Operations and Training (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245325) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518415/)
 ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
