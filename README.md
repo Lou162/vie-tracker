@@ -4,19 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 30/08/2026
+**Dernière mise à jour:** 31/08/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
-AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | N/A
-AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | N/A
+FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -29,21 +27,23 @@ AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | BELGIUM | [BF](https://mon
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
 EXTIA | DÉVOPS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243752) | [ytoussaint@extia.ca](ytoussaint@extia.ca) | N/A
+CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
 ALSTOM TRANSPORT SA | IS&T Operations and Training (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245325) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518415/)
 ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 ORANGE | Analyste CyberSOC (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
-CAPGEMINI TECHNOLOGY SERVICES | PLM Functional Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245044) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/0002f42a-cf6b-4cd1-be72-f34a7613b0c5-capgemini-v-i-e-plm-functional-consultant)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(22 offres)</span>
+## BELGIUM <span style='color:gray'>(24 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | N/A
+AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | N/A
 HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 COMPAGNIE DE SAINT-GOBAIN | Ingénieur Développement Digital & Data (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245414) | N/A | [Lien](https://joinus.saint-gobain.com/fr/bel/is/v/66242/320257/vie-ingenieur-developpement-digital-data-hf)
@@ -83,7 +83,7 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(8 offres)</span>
+## UNITED STATES <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -95,8 +95,6 @@ EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245259) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-CAPGEMINI TECHNOLOGY SERVICES | AI Consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245067) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/f85e5291-fd5a-4436-8d31-1d10a0a4196d-capgemini-v-i-e-ai-consultant)
-CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245066) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/5d7bfe07-295b-4999-9f1b-38ac44edb425-capgemini-v-i-e-sales-operation-analyst)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
