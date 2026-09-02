@@ -4,23 +4,22 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 01/09/2026
+**Dernière mise à jour:** 02/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+SYSTRA | MBSE & Digital Twin Specialist (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(6 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -31,19 +30,20 @@ CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [B
 ALSTOM TRANSPORT SA | IS&T Operations and Training (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245325) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518415/)
 ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
-ORANGE | Analyste CyberSOC (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245109) | [melanie.benn@orange.com](melanie.benn@orange.com) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(25 offres)</span>
+## BELGIUM <span style='color:gray'>(26 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | [Lien](https://apply.creamconsulting.com/?pid=QXGAmhRtSgjxNG5jW5Bkt28vdVOUBvU7%2F%2F4JJZe5ido%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=xkcrxqvEPZPn9PXBo0B%2Bl4VkREevhzU0mL%2Fwtnt6okFuAHgPwt33%2FMA5FTGlXLXP&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfb)
+FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
@@ -60,7 +60,6 @@ FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.busine
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
-DAVIDSON NORD | DATA ANALYST/EXPERT DATAIKU (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242414) | [elodie.laurent@davidson.be](elodie.laurent@davidson.be) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
@@ -84,7 +83,7 @@ BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | [BF](https://mon-vie
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(6 offres)</span>
+## UNITED STATES <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -95,7 +94,6 @@ ALSTOM TRANSPORT SA | AI Engineer (H/F) | [BF](https://mon-vie-via.businessfranc
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-ARTEFACT | Data consultant (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245457) | N/A | [Lien](https://www.artefact.com/job/senior-data-consultant-us/)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
