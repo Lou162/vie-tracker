@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 02/09/2026
+**Dernière mise à jour:** 03/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,13 +19,14 @@ SYSTRA | MBSE & Digital Twin Specialist (H/F) | CANADA | [BF](https://mon-vie-vi
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(5 offres)</span>
+## CANADA <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALSTOM TRANSPORT SA | RAMS Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
 ALSTOM TRANSPORT SA | IS&T Operations and Training (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245325) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/518415/)
 ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
@@ -34,7 +35,7 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(26 offres)</span>
+## BELGIUM <span style='color:gray'>(25 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -63,7 +64,6 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Complia
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
-ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243231) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ALSTOM TRANSPORT SA | Process & Method Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245114) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/502096/)
 ALTRAN TECHNOLOGIES | Business Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245102) | [hanae.chahib@capgemini.com](hanae.chahib@capgemini.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
