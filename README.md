@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 06/09/2026
+**Dernière mise à jour:** 07/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -89,10 +89,10 @@ SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engi
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 ALSTOM TRANSPORT SA | AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245394) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/523652/)
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
-PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
@@ -108,7 +108,7 @@ ALBERT GLOBAL DATA SCHOOL | Academic Operations Officer (H/F) | [BF](https://mon
 
 <!-- Title NETHERLANDS -->
 
-## NETHERLANDS <span style='color:gray'>(3 offres)</span>
+## NETHERLANDS <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le NETHERLANDS -->
 
@@ -116,5 +116,4 @@ ALBERT GLOBAL DATA SCHOOL | Academic Operations Officer (H/F) | [BF](https://mon
 | :-----: | :-----: | :-----: | :-----: | :--: |
 ALTEN | Software Engineer C++ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237571) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
 ALTEN | Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245290) | [micaelacristina.correiaguilherme@alten.com](micaelacristina.correiaguilherme@alten.com) | N/A
-AVERTIM FRANCE | Quality Engineer Life Sciences (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243004) | [veronique.zwarts@avertim.be](veronique.zwarts@avertim.be) | N/A
 <!-- Fin des offres pour le NETHERLANDS -->
