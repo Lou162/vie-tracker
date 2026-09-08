@@ -4,17 +4,18 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 07/09/2026
+**Dernière mise à jour:** 08/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-CABINET LOUIS REYNAUD SASU | Chargé(e) de développement et d’implantation – Belgique (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245621) | [stefane.mouille@cabinet-louis-reynaud.fr](stefane.mouille@cabinet-louis-reynaud.fr) | N/A
+CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | SWITZERLAND | [BF](https://mon-vie-via.businessfrance.fr/offres/245650) | N/A | [Lien](https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115336/?idOrigine=192494)
+SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245649) | N/A | [Lien](https://careers.sagemcom.com/Pages/Offre/detailoffre.aspx?idOffre=2257&idOrigine=502&LCID=1033&offerReference=2026-2257)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -36,12 +37,13 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(24 offres)</span>
+## BELGIUM <span style='color:gray'>(25 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+CABINET LOUIS REYNAUD SASU | Chargé(e) de développement et d’implantation – Belgique (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245621) | [stefane.mouille@cabinet-louis-reynaud.fr](stefane.mouille@cabinet-louis-reynaud.fr) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
