@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 10/09/2026
+**Dernière mise à jour:** 11/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,8 +14,8 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | SWITZERLAND | [BF](https://mon-vie-via.businessfrance.fr/offres/245650) | N/A | [Lien](https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115336/?idOrigine=192494)
-SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245649) | N/A | [Lien](https://careers.sagemcom.com/Pages/Offre/detailoffre.aspx?idOffre=2257&idOrigine=502&LCID=1033&offerReference=2026-2257)
+PLANISWARE | CONSULTANT(E) (M/F) (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/245800) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
+NOOEH | Cyber Incident Trainer & Crisis Secretary (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245785) | [sophie@nooeh.fr](sophie@nooeh.fr) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -83,13 +83,14 @@ SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(5 offres)</span>
+## UNITED STATES <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245649) | N/A | [Lien](https://careers.sagemcom.com/Pages/Offre/detailoffre.aspx?idOffre=2257&idOrigine=502&LCID=1033&offerReference=2026-2257)
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 ALSTOM TRANSPORT SA | AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245394) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/523652/)
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
@@ -98,12 +99,13 @@ NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) 
 
 <!-- Title SWITZERLAND -->
 
-## SWITZERLAND <span style='color:gray'>(1 offres)</span>
+## SWITZERLAND <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le SWITZERLAND -->
 
 |  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
 | :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245650) | N/A | [Lien](https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115336/?idOrigine=192494)
 ALBERT GLOBAL DATA SCHOOL | Academic Operations Officer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245588) | [mbianchi@albertschool.com](mbianchi@albertschool.com) | N/A
 <!-- Fin des offres pour le SWITZERLAND -->
 
