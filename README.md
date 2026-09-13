@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 12/09/2026
+**Dernière mise à jour:** 13/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -20,7 +20,7 @@ ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels H
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(7 offres)</span>
+## CANADA <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -32,7 +32,6 @@ ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safe
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
 ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245304) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/521726/)
-ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245249) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
