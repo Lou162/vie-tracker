@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 13/09/2026
+**Dernière mise à jour:** 14/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -71,14 +71,13 @@ BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.bus
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
-SERVICES TECHNIQUES SCHLUMBERGER | Knowledge Graph & Computational Ontology Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245269) | [KBakiri@slb.com](KBakiri@slb.com) | [Lien](KBakiri@slb.com)
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
