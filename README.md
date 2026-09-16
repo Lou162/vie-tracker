@@ -4,29 +4,31 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 15/09/2026
+**Dernière mise à jour:** 16/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+BLUE CUBE (FRANCE) | Junior Quant Engineer (Python) (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/245993) | [talent@blockchain.com](talent@blockchain.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(6 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
-NOOEH | Cyber Incident Trainer & Crisis Secretary (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245785) | [sophie@nooeh.fr](sophie@nooeh.fr) | N/A
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
@@ -41,6 +43,9 @@ ALSTOM TRANSPORT SA | Spécialiste solutions numériques (H/F) | [BF](https://mo
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 CABINET LOUIS REYNAUD SASU | Chargé(e) de développement et d’implantation – Belgique (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245621) | [stefane.mouille@cabinet-louis-reynaud.fr](stefane.mouille@cabinet-louis-reynaud.fr) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
@@ -55,9 +60,6 @@ SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.b
 HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 COMPAGNIE DE SAINT-GOBAIN | Ingénieur Développement Digital & Data (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245414) | N/A | [Lien](https://joinus.saint-gobain.com/fr/bel/is/v/66242/320257/vie-ingenieur-developpement-digital-data-hf)
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
