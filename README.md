@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 19/09/2026
+**Dernière mise à jour:** 20/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -35,7 +35,7 @@ CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [B
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(24 offres)</span>
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -64,7 +64,6 @@ FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.
 FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243827) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
