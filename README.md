@@ -4,24 +4,22 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 20/09/2026
+**Dernière mise à jour:** 21/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
+ALTEN | HIL Testing Engineer (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -30,12 +28,13 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | CANADA | [BF](https://mo
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
+ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(23 offres)</span>
+## BELGIUM <span style='color:gray'>(25 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -44,6 +43,8 @@ CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [B
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur .NET / C#  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242776) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Consultant Cybersécurité GRC / Compliance (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242775) | [swojtkowski@mca-groupe.com](swojtkowski@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
+MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
