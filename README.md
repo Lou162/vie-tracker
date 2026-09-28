@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 27/09/2026
+**Dernière mise à jour:** 28/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -21,7 +21,7 @@ AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) 
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(5 offres)</span>
+## CANADA <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -31,12 +31,11 @@ CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
-CS GROUP - FRANCE | Ingénieur logiciel - IA et systèmes distribués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245495) | N/A | [Lien](https://smrtr.io/BzWj5)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(23 offres)</span>
+## BELGIUM <span style='color:gray'>(22 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -64,7 +63,6 @@ ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.bu
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-HEADMIND PARTNERS | CYBER RISK & SECURITY CONSULTANT - H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245064) | [lbourdin682@headmind.com](lbourdin682@headmind.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
