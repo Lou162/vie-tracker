@@ -4,30 +4,29 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 28/09/2026
+**Dernière mise à jour:** 29/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALMOND | Consultant SOC/CERT H/F (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246369) | [Apiveteau@almond.eu](Apiveteau@almond.eu) | [Lien](https://careers.almond.eu/jobs)
-ALSTOM TRANSPORT SA | Field Engineer Miami Metromover (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246351) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/527593/)
-AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
+PONTICELLI FRERES | IT GRADUATE (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALMOND | Consultant SOC/CERT H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246369) | [Apiveteau@almond.eu](Apiveteau@almond.eu) | [Lien](https://careers.almond.eu/jobs)
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
@@ -35,7 +34,7 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(22 offres)</span>
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -49,6 +48,7 @@ FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.
 FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246204) | [elorri.parage@capgemini.com](elorri.parage@capgemini.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
@@ -78,7 +78,7 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(9 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -86,6 +86,7 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
+ALSTOM TRANSPORT SA | Field Engineer Miami Metromover (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246351) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/527593/)
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
 SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245649) | N/A | [Lien](https://careers.sagemcom.com/Pages/Offre/detailoffre.aspx?idOffre=2257&idOrigine=502&LCID=1033&offerReference=2026-2257)
 ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
@@ -97,14 +98,13 @@ PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie
 
 <!-- Title SWITZERLAND -->
 
-## SWITZERLAND <span style='color:gray'>(2 offres)</span>
+## SWITZERLAND <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le SWITZERLAND -->
 
 |  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
 | :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245650) | N/A | [Lien](https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115336/?idOrigine=192494)
-ALBERT GLOBAL DATA SCHOOL | Academic Operations Officer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245588) | [mbianchi@albertschool.com](mbianchi@albertschool.com) | N/A
 <!-- Fin des offres pour le SWITZERLAND -->
 
 <!-- Title NETHERLANDS -->
