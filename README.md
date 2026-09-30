@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 29/09/2026
+**Dernière mise à jour:** 30/09/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -34,12 +34,13 @@ ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(23 offres)</span>
+## BELGIUM <span style='color:gray'>(21 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | [Lien](https://apply.creamconsulting.com/?pid=QXGAmhRtSgjxNG5jW5Bkt28vdVOUBvU7%2F%2F4JJZe5ido%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=xkcrxqvEPZPn9PXBo0B%2Bl4VkREevhzU0mL%2Fwtnt6okFuAHgPwt33%2FMA5FTGlXLXP&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfb)
@@ -54,9 +55,6 @@ ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfr
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Test Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244255) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | (Python, C++) Software DEVELOPER  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243983) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
@@ -115,5 +113,5 @@ CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | [BF](https://mon-vie-v
 
 | Company | Mission | bf_link | Contact | Link |
 | :-----: | :-----: | :-----: | :-----: | :--: |
-ALTEN | Software Engineer C++ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237571) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
+AVERTIM FRANCE | Quality Engineer Life Sciences (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243004) | [veronique.zwarts@avertim.be](veronique.zwarts@avertim.be) | N/A
 <!-- Fin des offres pour le NETHERLANDS -->
