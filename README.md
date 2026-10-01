@@ -4,22 +4,27 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 30/09/2026
+**Dernière mise à jour:** 01/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(6 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-PONTICELLI FRERES | IT GRADUATE (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
+TLD EUROPE | Ingénieur systèmes embarqués (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
+CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
+CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246573) | N/A | [Lien](https://smrtr.io/z4zSQ)
+CS GROUP - FRANCE | ISO 21434 Cybersecurity Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246572) | N/A | [Lien](https://smrtr.io/z8xwC)
+CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(5 offres)</span>
+## CANADA <span style='color:gray'>(4 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -29,12 +34,11 @@ CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via
 ALMOND | Consultant SOC/CERT H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246369) | [Apiveteau@almond.eu](Apiveteau@almond.eu) | [Lien](https://careers.almond.eu/jobs)
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
-ALSTOM TRANSPORT SA | S&T Infra Project Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245964) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/525361/)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(21 offres)</span>
+## BELGIUM <span style='color:gray'>(18 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -58,25 +62,23 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
-SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ  AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(1 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+PONTICELLI FRERES | IT GRADUATE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -90,8 +92,6 @@ SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | [BF](https://mon-vie-via.busi
 ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
-PLANISWARE | CONSULTANT(E) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245800) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/245238) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
