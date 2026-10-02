@@ -4,46 +4,48 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 01/10/2026
+**Dernière mise à jour:** 02/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(6 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-TLD EUROPE | Ingénieur systèmes embarqués (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
-CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
-CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
-CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246573) | N/A | [Lien](https://smrtr.io/z4zSQ)
-CS GROUP - FRANCE | ISO 21434 Cybersecurity Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246572) | N/A | [Lien](https://smrtr.io/z8xwC)
-CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
+LAFONT | IT Manager (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(4 offres)</span>
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
+CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246573) | N/A | [Lien](https://smrtr.io/z4zSQ)
+CS GROUP - FRANCE | ISO 21434 Cybersecurity Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246572) | N/A | [Lien](https://smrtr.io/z8xwC)
+CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
 ALMOND | Consultant SOC/CERT H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246369) | [Apiveteau@almond.eu](Apiveteau@almond.eu) | [Lien](https://careers.almond.eu/jobs)
 ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
-SYSTRA | MBSE & Digital Twin Specialist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245546) | [gmillaire1@systra.com](gmillaire1@systra.com) | N/A
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(18 offres)</span>
+## BELGIUM <span style='color:gray'>(21 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
+SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
@@ -66,12 +68,13 @@ ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
 PONTICELLI FRERES | IT GRADUATE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
 IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
