@@ -4,17 +4,18 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 02/10/2026
+**Dernière mise à jour:** 03/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-LAFONT | IT Manager (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
+CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
+TOTALENERGIES RAFFINAGE CHIMIE | Ingénieur Transformation Digitale & Data Finance (H/F) – Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246626) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Ing-nieur-Transformation-Digitale-Data-Finance-H-F-Belgique/84754)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -81,13 +82,14 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(8 offres)</span>
+## UNITED STATES <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 ALSTOM TRANSPORT SA | Field Engineer Miami Metromover (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246351) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/527593/)
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
