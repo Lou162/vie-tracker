@@ -4,16 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 04/10/2026
+**Dernière mise à jour:** 05/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 TOTALENERGIES RAFFINAGE CHIMIE | Ingénieur Transformation Digitale & Data Finance (H/F) – Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246626) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Ing-nieur-Transformation-Digitale-Data-Finance-H-F-Belgique/84754)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
@@ -44,6 +45,9 @@ ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safe
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
+ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
+ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
@@ -62,9 +66,6 @@ ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfr
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
-ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
-ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
