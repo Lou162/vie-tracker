@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 06/10/2026
+**Dernière mise à jour:** 07/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -82,13 +82,14 @@ IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-vi
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
