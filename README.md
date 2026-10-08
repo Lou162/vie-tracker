@@ -4,28 +4,30 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 07/10/2026
+**Dernière mise à jour:** 08/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/246694) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/531127/)
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Developer C++  (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246842) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246837) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(8 offres)</span>
+## CANADA <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246694) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/531127/)
 CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
 CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246573) | N/A | [Lien](https://smrtr.io/z4zSQ)
@@ -37,12 +39,14 @@ ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safe
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(22 offres)</span>
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
+AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
@@ -59,7 +63,6 @@ FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.
 FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246204) | [elorri.parage@capgemini.com](elorri.parage@capgemini.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
