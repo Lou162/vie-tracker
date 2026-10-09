@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 08/10/2026
+**Dernière mise à jour:** 09/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -20,7 +20,7 @@ AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | BELGIUM | [BF](
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(9 offres)</span>
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -34,7 +34,6 @@ CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDA
 CS GROUP - FRANCE | ISO 21434 Cybersecurity Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246572) | N/A | [Lien](https://smrtr.io/z8xwC)
 CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
 ALMOND | Consultant SOC/CERT H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246369) | [Apiveteau@almond.eu](Apiveteau@almond.eu) | [Lien](https://careers.almond.eu/jobs)
-ALSTOM TRANSPORT SA | RAMS (Reliability, Availability, Maintainability, and Safety)  Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243614) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/509462/)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
@@ -72,7 +71,7 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(3 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
@@ -80,7 +79,6 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
 TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
 PONTICELLI FRERES | IT GRADUATE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
-IKOS CONSULTING | GenAI agentic systems engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244311) | [ebarbosa@ikosconsulting.com](ebarbosa@ikosconsulting.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
