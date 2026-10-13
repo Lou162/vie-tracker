@@ -4,17 +4,19 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 12/10/2026
+**Dernière mise à jour:** 13/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-UCB PHARMA | Quality Statistical Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246946) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
+TOTALENERGIES RAFFINAGE CHIMIE | VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247003) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Charg-de-projet-Digitalisation-Automatisation-Middle-Office-BELGIQUE/85112)
+UCB PHARMA | Scientific Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
+TOTALENERGIES RAFFINAGE CHIMIE | Chef de projet en automatisation des processus (H/F) Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246999) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Chef-de-projet-en-automatisation-des-processus-H-F-Belgique/85108)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -36,12 +38,13 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(27 offres)</span>
+## BELGIUM <span style='color:gray'>(28 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+UCB PHARMA | Quality Statistical Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246946) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
 UCB PHARMA | Compliance and Operational Excellence Officer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246900) | N/A | [Lien](https://careers.ucb.com/global/en/job/94326/VIE-Compliance-and-Operational-Excellence-Officer)
 JANSSEN CILAG | Technology Support Specialist – AI, Automation & Dashboards (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246779) | [dvbedaf1@its.jnj.com](dvbedaf1@its.jnj.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
