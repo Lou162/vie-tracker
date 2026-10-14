@@ -4,19 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 13/10/2026
+**Dernière mise à jour:** 14/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-TOTALENERGIES RAFFINAGE CHIMIE | VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247003) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Charg-de-projet-Digitalisation-Automatisation-Middle-Office-BELGIQUE/85112)
-UCB PHARMA | Scientific Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
-TOTALENERGIES RAFFINAGE CHIMIE | Chef de projet en automatisation des processus (H/F) Belgique | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/246999) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Chef-de-projet-en-automatisation-des-processus-H-F-Belgique/85108)
+ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -38,12 +36,15 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(28 offres)</span>
+## BELGIUM <span style='color:gray'>(31 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+TOTALENERGIES RAFFINAGE CHIMIE | VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247003) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Charg-de-projet-Digitalisation-Automatisation-Middle-Office-BELGIQUE/85112)
+UCB PHARMA | Scientific Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
+TOTALENERGIES RAFFINAGE CHIMIE | Chef de projet en automatisation des processus (H/F) Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/246999) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Chef-de-projet-en-automatisation-des-processus-H-F-Belgique/85108)
 UCB PHARMA | Quality Statistical Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246946) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
 UCB PHARMA | Compliance and Operational Excellence Officer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246900) | N/A | [Lien](https://careers.ucb.com/global/en/job/94326/VIE-Compliance-and-Operational-Excellence-Officer)
 JANSSEN CILAG | Technology Support Specialist – AI, Automation & Dashboards (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246779) | [dvbedaf1@its.jnj.com](dvbedaf1@its.jnj.com) | N/A
@@ -88,7 +89,7 @@ PONTICELLI FRERES | IT GRADUATE (H/F) | [BF](https://mon-vie-via.businessfrance.
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(12 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -100,9 +101,7 @@ PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
-ALSTOM TRANSPORT SA | Field Engineer Miami Metromover (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246351) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/527593/)
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
-SAGEMCOM BROADBAND SAS | Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245649) | N/A | [Lien](https://careers.sagemcom.com/Pages/Offre/detailoffre.aspx?idOffre=2257&idOrigine=502&LCID=1033&offerReference=2026-2257)
 ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
