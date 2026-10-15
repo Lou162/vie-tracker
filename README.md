@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 14/10/2026
+**Dernière mise à jour:** 15/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -83,18 +83,20 @@ ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfr
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
+PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
 TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
-PONTICELLI FRERES | IT GRADUATE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
 |        Company         |                        Mission                        |                          bf_link                          |                                  Contact                                   |                                                             Link                                                              |
 | :--------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246978) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8534363-vie-solutions-engineer-los-angeles?promotion=2242315-trackable-share-link-business-france-vie-se-los-angeles-nea-csm)
+ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
@@ -104,7 +106,6 @@ EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
 ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
-NUMBERLY | Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245292) | N/A | [Lien](https://joinus.numberly.com/jobs/8228011-forward-deployed-engineer-ai-data-analyst-vie-new-york)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
