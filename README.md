@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 18/10/2026
+**Dernière mise à jour:** 19/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,18 +14,19 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
+AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(7 offres)</span>
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
 ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246694) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/531127/)
 CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
 CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
@@ -42,6 +43,14 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
+FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
+AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | [Lien](https://apply.creamconsulting.com/?pid=QXGAmhRtSgjxNG5jW5Bkt28vdVOUBvU7%2F%2F4JJZe5ido%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=xkcrxqvEPZPn9PXBo0B%2Bl4VkREevhzU0mL%2Fwtnt6okFuAHgPwt33%2FMA5FTGlXLXP&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfb)
+FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 TOTALENERGIES RAFFINAGE CHIMIE | VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247003) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Charg-de-projet-Digitalisation-Automatisation-Middle-Office-BELGIQUE/85112)
 UCB PHARMA | Scientific Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
@@ -64,14 +73,6 @@ SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offr
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
-AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | [Lien](https://apply.creamconsulting.com/?pid=QXGAmhRtSgjxNG5jW5Bkt28vdVOUBvU7%2F%2F4JJZe5ido%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=xkcrxqvEPZPn9PXBo0B%2Bl4VkREevhzU0mL%2Fwtnt6okFuAHgPwt33%2FMA5FTGlXLXP&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfb)
-FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246204) | [elorri.parage@capgemini.com](elorri.parage@capgemini.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
@@ -89,7 +90,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -105,7 +106,6 @@ LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/24
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
 ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
-EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
