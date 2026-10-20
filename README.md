@@ -4,16 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 19/10/2026
+**Dernière mise à jour:** 20/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
@@ -90,7 +91,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -99,6 +100,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246978) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8534363-vie-solutions-engineer-los-angeles?promotion=2242315-trackable-share-link-business-france-vie-se-los-angeles-nea-csm)
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+NEMERA LA VERPILLIERE | Human Factors Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246895) | [guillaume.tertre@nemera.net](guillaume.tertre@nemera.net) | N/A
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
