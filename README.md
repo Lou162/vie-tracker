@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 20/10/2026
+**Dernière mise à jour:** 21/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -14,8 +14,8 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
-AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
+CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
+UCB PHARMA | Business Excellence Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -38,12 +38,13 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(31 offres)</span>
+## BELGIUM <span style='color:gray'>(32 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
@@ -91,7 +92,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -101,13 +102,14 @@ ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/of
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 NEMERA LA VERPILLIERE | Human Factors Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246895) | [guillaume.tertre@nemera.net](guillaume.tertre@nemera.net) | N/A
+EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
+EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
-ALTEN | HIL Testing Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246066) | [beatrice.vinai@alten.com](beatrice.vinai@alten.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
