@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 21/10/2026
+**Dernière mise à jour:** 22/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -38,12 +38,14 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(32 offres)</span>
+## BELGIUM <span style='color:gray'>(31 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Developer C++  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246842) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
@@ -63,7 +65,6 @@ JANSSEN CILAG | Technology Support Specialist – AI, Automation & Dashboards (H
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Developer C++  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246842) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246837) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
@@ -74,8 +75,6 @@ TOTALENERGIES RAFFINAGE CHIMIE | Ingénieur Transformation Digitale & Data Finan
 SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
-ALTRAN TECHNOLOGIES | Data Scientist (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246204) | [elorri.parage@capgemini.com](elorri.parage@capgemini.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -92,7 +91,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(12 offres)</span>
+## UNITED STATES <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -109,7 +108,6 @@ PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
-NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
