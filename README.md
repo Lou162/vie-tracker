@@ -4,29 +4,29 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 25/10/2026
+**Dernière mise à jour:** 26/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
-UCB PHARMA | Business Excellence Data Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
+STMICROELECTRONICS (GRENOBLE 2) SAS | Ingénieur en déploiement de solutions GenAI (H/F) | UNITED KINGDOM | [BF](https://mon-vie-via.businessfrance.fr/offres/247501) | N/A | [Lien](https://stmicroelectronics.eightfold.ai/careers?query=11128&pid=563637173054276&domain=stmicroelectronics.com&sort_by=relevance&hl=FR&triggerGoButton=false)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(8 offres)</span>
+## CANADA <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
 ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
 ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246694) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/531127/)
 CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
@@ -38,7 +38,7 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(31 offres)</span>
+## BELGIUM <span style='color:gray'>(32 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -46,6 +46,7 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Developer C++  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246842) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
+UCB PHARMA | Business Excellence Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
@@ -91,7 +92,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -107,7 +108,6 @@ CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://m
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
-EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
