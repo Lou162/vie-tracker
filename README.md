@@ -4,17 +4,18 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 29/10/2026
+**Dernière mise à jour:** 30/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-SAFRAN CABIN FRANCE | Data Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247380) | [joerg.berlin@safrangroup.com](joerg.berlin@safrangroup.com) | N/A
+ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
+ASTEK FRANCE | Développeur IA (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
@@ -39,7 +40,7 @@ CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(32 offres)</span>
+## BELGIUM <span style='color:gray'>(31 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -63,7 +64,6 @@ UCB PHARMA | Scientific Data Analyst (H/F) | [BF](https://mon-vie-via.businessfr
 TOTALENERGIES RAFFINAGE CHIMIE | Chef de projet en automatisation des processus (H/F) Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/246999) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Chef-de-projet-en-automatisation-des-processus-H-F-Belgique/85108)
 UCB PHARMA | Quality Statistical Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246946) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
 UCB PHARMA | Compliance and Operational Excellence Officer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246900) | N/A | [Lien](https://careers.ucb.com/global/en/job/94326/VIE-Compliance-and-Operational-Excellence-Officer)
-JANSSEN CILAG | Technology Support Specialist – AI, Automation & Dashboards (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246779) | [dvbedaf1@its.jnj.com](dvbedaf1@its.jnj.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
@@ -93,7 +93,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -103,6 +103,8 @@ ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/of
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
+LIM FRANCE | Business Operations (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246402) | [awedderburn@lim-group.com](awedderburn@lim-group.com) | N/A
+SAFRAN CABIN FRANCE | Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247380) | [joerg.berlin@safrangroup.com](joerg.berlin@safrangroup.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
