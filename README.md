@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 30/10/2026
+**Dernière mise à jour:** 31/10/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -93,7 +93,7 @@ TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.bu
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(12 offres)</span>
+## UNITED STATES <span style='color:gray'>(11 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -104,7 +104,6 @@ ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/of
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 LIM FRANCE | Business Operations (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246402) | [awedderburn@lim-group.com](awedderburn@lim-group.com) | N/A
-SAFRAN CABIN FRANCE | Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247380) | [joerg.berlin@safrangroup.com](joerg.berlin@safrangroup.com) | N/A
 EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
