@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 31/10/2026
+**Dernière mise à jour:** 01/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -20,7 +20,7 @@ ASTEK FRANCE | Développeur IA (H/F) | CANADA | [BF](https://mon-vie-via.busines
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(10 offres)</span>
+## CANADA <span style='color:gray'>(5 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -31,16 +31,11 @@ V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-v
 CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
 ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
 ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246694) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/531127/)
-CS GROUP - FRANCE | AI Software Engineer – Aero (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246579) | N/A | [Lien](https://smrtr.io/C76xS)
-CS GROUP - FRANCE | Ingénieur logiciel - IA Advanced Mobility (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246576) | N/A | [Lien](https://smrtr.io/BzWj5)
-CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246573) | N/A | [Lien](https://smrtr.io/z4zSQ)
-CS GROUP - FRANCE | ISO 21434 Cybersecurity Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246572) | N/A | [Lien](https://smrtr.io/z8xwC)
-CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(31 offres)</span>
+## BELGIUM <span style='color:gray'>(28 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -74,26 +69,22 @@ ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels H
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 TOTALENERGIES RAFFINAGE CHIMIE | Ingénieur Transformation Digitale & Data Finance (H/F) – Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/246626) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Ing-nieur-Transformation-Digitale-Data-Finance-H-F-Belgique/84754)
-SCALIAN | INGENIEUR IVVQ (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242637) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGENIEUR SYSTEME EMBARQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/237577) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
-SCALIAN | INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/232332) | [loukiana.oro@scalian.com](loukiana.oro@scalian.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
 
-## UNITED KINGDOM <span style='color:gray'>(2 offres)</span>
+## UNITED KINGDOM <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le UNITED KINGDOM -->
 
 |      Company       |               Mission                |                          bf_link                          |                          Contact                           | Link |
 | :----------------: | :----------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--: |
 PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246508) | [franck.tallieu@ext-ponticelli.com](franck.tallieu@ext-ponticelli.com) | N/A
-TLD EUROPE | Ingénieur systèmes embarqués (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246580) | N/A | [Lien](https://apply.wink-lab.com/apply/d0d2d87e-4997-4b33-82aa-6eb786b72011)
 <!-- Fin des offres pour le UNITED KINGDOM -->
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -109,7 +100,6 @@ EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [B
 EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
-LAFONT | IT Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246596) | [lchenavier@lafont.com](lchenavier@lafont.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
