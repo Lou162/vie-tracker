@@ -4,29 +4,30 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 01/11/2026
+**Dernière mise à jour:** 02/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
-ASTEK FRANCE | Développeur IA (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
+M&L DISTRIBUTION (FRANCE) S.A.R.L. | Internal Audit, Controls & AI Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247753) | N/A | [Lien](https://careers-group.loccitane.com/Multibrands/job/Geneve-VIE-NYC-Internal-Audit%2C-Controls-&amp;-AI-Analyst-Gene/1452843133/)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(5 offres)</span>
+## CANADA <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
+ASTEK FRANCE | Développeur IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247297) | [sabrina.dragut@vo2-group.com](sabrina.dragut@vo2-group.com) | N/A
 CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
 ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
@@ -35,7 +36,7 @@ ALSTOM TRANSPORT SA | Engineering Management Coordinator (H/F) | [BF](https://mo
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(28 offres)</span>
+## BELGIUM <span style='color:gray'>(27 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -68,7 +69,6 @@ AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) 
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
-TOTALENERGIES RAFFINAGE CHIMIE | Ingénieur Transformation Digitale & Data Finance (H/F) – Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/246626) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Ing-nieur-Transformation-Digitale-Data-Finance-H-F-Belgique/84754)
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -84,7 +84,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(10 offres)</span>
+## UNITED STATES <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -99,7 +99,6 @@ EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
 CORREGE | Digital Transformation & Industrial AI Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243616) | [charlotte.wambergue@correge.fr](charlotte.wambergue@correge.fr) | N/A
-CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246628) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/383ea04f-bfca-4019-9ad2-b2436b27a51f-capgemini-v-i-e-sales-operation-analyst)
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
