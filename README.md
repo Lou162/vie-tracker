@@ -4,16 +4,17 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 03/11/2026
+**Dernière mise à jour:** 04/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
+CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247821) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/077f8cdd-465a-4a9f-a899-9d9e3b7f80b4-capgemini-v-i-e-sales-operation-analyst)
 AIRBUS | Fuselage Repair Workflow Manager (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/247836) | N/A | [Lien](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/VIE-2027--Airbus-Americas--Fuselage-Repair-Workflow-Manager_JR10425581)
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
