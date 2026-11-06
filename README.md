@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 05/11/2026
+**Dernière mise à jour:** 06/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -37,7 +37,7 @@ ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-v
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(26 offres)</span>
+## BELGIUM <span style='color:gray'>(25 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -68,7 +68,6 @@ MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
 AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246837) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
 BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
-AKKODIS HIGH TECH SAS | Ingénieur Aérodynamique Aérospatial & Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246355) | [niama.el-ouafi@akkodis.com](niama.el-ouafi@akkodis.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
