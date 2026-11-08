@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 07/11/2026
+**Dernière mise à jour:** 08/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -37,7 +37,7 @@ ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-v
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(25 offres)</span>
+## BELGIUM <span style='color:gray'>(23 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -66,8 +66,6 @@ UCB PHARMA | Compliance and Operational Excellence Officer (H/F) | [BF](https://
 MISSION CONSEIL ASSISTANCE INGENIERIE | Ingénieur Projet / Ingénieur Système – Défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245981) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | Application Support Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245976) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 NALYS FRANCE | Embedded Software Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242200) | [omeslin@nalys-group.com](omeslin@nalys-group.com) | N/A
-AKKODIS HIGH TECH SAS | Ingénieur Systeme - Ferroviaire (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246837) | [kenny.chauvet@akkodis.com](kenny.chauvet@akkodis.com) | N/A
-BOSTIK SA | Specialty Hot Melt Market study (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/242734) | [yanis.messaoudi-ext@bostik.com](yanis.messaoudi-ext@bostik.com) | N/A
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
