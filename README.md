@@ -4,29 +4,29 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 09/11/2026
+**Dernière mise à jour:** 10/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-PLANISWARE | CONSULTANT(O) (M/F) (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/248069) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-ABMI GROUPE | Administrateur système niveau 3 (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/248059) | [f.paquet@abmi-groupe.com](f.paquet@abmi-groupe.com) | N/A
+ENGIE GLOBAL MARKETS | VIE - Power Market Analyst (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/248144) | [clement.trouveroy@engie.com](clement.trouveroy@engie.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(7 offres)</span>
+## CANADA <span style='color:gray'>(8 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ABMI GROUPE | Administrateur système niveau 3 (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248059) | [f.paquet@abmi-groupe.com](f.paquet@abmi-groupe.com) | N/A
 CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
 ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 ASTEK FRANCE | Développeur IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
@@ -81,7 +81,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(11 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -90,6 +90,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246978) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8534363-vie-solutions-engineer-los-angeles?promotion=2242315-trackable-share-link-business-france-vie-se-los-angeles-nea-csm)
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
+PLANISWARE | CONSULTANT(O) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248069) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247821) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/077f8cdd-465a-4a9f-a899-9d9e3b7f80b4-capgemini-v-i-e-sales-operation-analyst)
 AIRBUS | Fuselage Repair Workflow Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247836) | N/A | [Lien](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/VIE-2027--Airbus-Americas--Fuselage-Repair-Workflow-Manager_JR10425581)
 M&L DISTRIBUTION (FRANCE) S.A.R.L. | Internal Audit, Controls & AI Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247753) | N/A | [Lien](https://careers-group.loccitane.com/Multibrands/job/Geneve-VIE-NYC-Internal-Audit%2C-Controls-&amp;-AI-Analyst-Gene/1452843133/)
