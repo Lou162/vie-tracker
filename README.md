@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 12/11/2026
+**Dernière mise à jour:** 13/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -37,12 +37,17 @@ ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-v
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(20 offres)</span>
+## BELGIUM <span style='color:gray'>(19 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
+FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 ENGIE GLOBAL MARKETS | VIE - Power Market Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248144) | [clement.trouveroy@engie.com](clement.trouveroy@engie.com) | N/A
 UCB PHARMA | Scientific Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
@@ -55,14 +60,8 @@ PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](ht
 UCB PHARMA | Business Excellence Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
 AUDENSIEL NORD | BUSINESS MANAGER / INGÉNIEUR D'AFFAIRES (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247217) | N/A | [Lien](https://apply.creamconsulting.com/?pid=kNt97KfCiUq0hOxr9dt2NA01a2xCJ6j42vXaItjd8F4%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=Gx0Qa8tDS0hcBG2WGCzePhbEB7ScgcSn9rKs2AF6AnI%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 MISSION CONSEIL ASSISTANCE INGENIERIE | Développeur C++ / Systèmes embarqués – H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245526) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
-FORTIL GROUP | INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245507) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
 AUDENSIEL NORD | BUSINESS ANALYST/MOA (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245484) | N/A | [Lien](https://apply.creamconsulting.com/?pid=J%2F8AVscoZcANttPjFujLrr0yTI4AortewIIRTc0iJmc%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3)
 AUDENSIEL NORD | JUNIOR PROJECT MANAGER (F/M) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245483) | N/A | [Lien](https://apply.creamconsulting.com/?pid=QXGAmhRtSgjxNG5jW5Bkt28vdVOUBvU7%2F%2F4JJZe5ido%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=xkcrxqvEPZPn9PXBo0B%2Bl4VkREevhzU0mL%2Fwtnt6okFuAHgPwt33%2FMA5FTGlXLXP&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfb)
-FORTIL GROUP | PROJECT ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245353) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) EN AUTOMATISME (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245351) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR(E) MAINTENANCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245349) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245348) | [jehanne.ravel@fortil.group](jehanne.ravel@fortil.group) | N/A
-TOTALENERGIES RAFFINAGE CHIMIE | Chef de projet en automatisation des processus (H/F) Belgique | [BF](https://mon-vie-via.businessfrance.fr/offres/246999) | N/A | [Lien](https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Chef-de-projet-en-automatisation-des-processus-H-F-Belgique/85108)
 <!-- Fin des offres pour le BELGIUM -->
 
 <!-- Title UNITED KINGDOM -->
@@ -78,7 +77,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(13 offres)</span>
+## UNITED STATES <span style='color:gray'>(14 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -87,6 +86,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246978) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8534363-vie-solutions-engineer-los-angeles?promotion=2242315-trackable-share-link-business-france-vie-se-los-angeles-nea-csm)
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 BOUYGUES | Business Analyst Media, Telecom & Innovation (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248209) | [admin@winnovation.net](admin@winnovation.net) | N/A
+NUMALLIANCE | Administrateur informatique adjoint (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/236021) | [recrutement@numalliance.com](recrutement@numalliance.com) | [Lien](VIE US IT)
 YOOBIC FRANCE | Junior Forward Deployed Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245148) | [jndiaye@yoobic.com](jndiaye@yoobic.com) | N/A
 PLANISWARE | CONSULTANT(O) (M/F) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248069) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247821) | N/A | [Lien](https://www.jobteaser.com/fr/job-offers/077f8cdd-465a-4a9f-a899-9d9e3b7f80b4-capgemini-v-i-e-sales-operation-analyst)
