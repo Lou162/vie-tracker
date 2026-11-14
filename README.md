@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 13/11/2026
+**Dernière mise à jour:** 14/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,7 +19,7 @@ NGEN LILLE | INGENIEUR CONCEPTION MECANIQUE (H/F) | BELGIUM | [BF](https://mon-v
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(8 offres)</span>
+## CANADA <span style='color:gray'>(7 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -32,7 +32,6 @@ ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurit�
 ASTEK FRANCE | Développeur IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247297) | [sabrina.dragut@vo2-group.com](sabrina.dragut@vo2-group.com) | N/A
 CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
-ALSTOM TRANSPORT SA | Test and Commissioning Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247044) | N/A | [Lien](https://jobsearch.alstom.com/job-invite/529540/)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
