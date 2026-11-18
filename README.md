@@ -20,13 +20,14 @@ BAXTER S.A.S | Data Analytics (H/F) | UNITED STATES | [BF](https://mon-vie-via.b
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(9 offres)</span>
+## CANADA <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+ACENSI SAS | Développeur(se) Full Stack Java / Spring Boot & Vue.js, développement assisté par IA (Claude Code) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248386) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248276) | N/A | [Lien](https://smrtr.io/z4zSQ)
 ABMI GROUPE | Administrateur système niveau 3 (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248059) | [f.paquet@abmi-groupe.com](f.paquet@abmi-groupe.com) | N/A
 CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
@@ -39,7 +40,7 @@ CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(21 offres)</span>
+## BELGIUM <span style='color:gray'>(20 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
@@ -57,7 +58,6 @@ FORTIL GROUP | INGÉNIEUR SUPPLY CHAIN (H/F) | [BF](https://mon-vie-via.business
 NGEN LILLE | INGENIEUR CONCEPTION MECANIQUE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248250) | [lea.monnier@ngengroup.be](lea.monnier@ngengroup.be) | N/A
 MISSION CONSEIL ASSISTANCE INGENIERIE | INGÉNIEUR(E) PROJETS (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/243663) | [igarcia@mca-groupe.com](igarcia@mca-groupe.com) | N/A
 ENGIE GLOBAL MARKETS | VIE - Power Market Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248144) | [clement.trouveroy@engie.com](clement.trouveroy@engie.com) | N/A
-UCB PHARMA | Scientific Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247001) | N/A | [Lien](https://careers.ucb.com/global/en/job/94329/VIE-Quality-Statistical-Data-Analyst)
 ELSYS DESIGN | Business Engineer in Embedded Electronics : Launch our Brussels Hub (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245841) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ELSYS DESIGN | Integrated Circuit Design Engineer (RTL) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245577) | [come.thuilliez@advans-group.com](come.thuilliez@advans-group.com) | N/A
 ELSYS DESIGN | Digital Verification Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/244754) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
@@ -81,7 +81,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(13 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -99,7 +99,6 @@ CAPGEMINI TECHNOLOGY SERVICES | Sales Operation Analyst (H/F) | [BF](https://mon
 AIRBUS | Fuselage Repair Workflow Manager (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247836) | N/A | [Lien](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/VIE-2027--Airbus-Americas--Fuselage-Repair-Workflow-Manager_JR10425581)
 M&L DISTRIBUTION (FRANCE) S.A.R.L. | Internal Audit, Controls & AI Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247753) | N/A | [Lien](https://careers-group.loccitane.com/Multibrands/job/Geneve-VIE-NYC-Internal-Audit%2C-Controls-&amp;-AI-Analyst-Gene/1452843133/)
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
-LIM FRANCE | Business Operations (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246402) | [awedderburn@lim-group.com](awedderburn@lim-group.com) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
