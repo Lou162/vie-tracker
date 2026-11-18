@@ -4,30 +4,33 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 16/11/2026
+**Dernière mise à jour:** 18/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(1 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-RATP DEVELOPPEMENT | Requirements Engineer (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/248363) | N/A | [Lien](https://careers.ratpdev.com/en/s/9dY6qd2x)
+BAXTER S.A.S | Implementation Engineering Analyst (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/248389) | [kevin_kitchens@baxter.com](kevin_kitchens@baxter.com) | N/A
+BAXTER S.A.S | Data Analytics (H/F) | UNITED STATES | [BF](https://mon-vie-via.businessfrance.fr/offres/248388) | [jennifer_lauff_johnson@baxter.com](jennifer_lauff_johnson@baxter.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(7 offres)</span>
+## CANADA <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248276) | N/A | [Lien](https://smrtr.io/z4zSQ)
 ABMI GROUPE | Administrateur système niveau 3 (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248059) | [f.paquet@abmi-groupe.com](f.paquet@abmi-groupe.com) | N/A
 CS GROUP - FRANCE | ISO 26262 Functional Safety Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246571) | N/A | [Lien](https://smrtr.io/z8xHw)
+RATP DEVELOPPEMENT | Requirements Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248363) | N/A | [Lien](https://careers.ratpdev.com/en/s/9dY6qd2x)
 ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 ASTEK FRANCE | Développeur IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247297) | [sabrina.dragut@vo2-group.com](sabrina.dragut@vo2-group.com) | N/A
@@ -36,12 +39,13 @@ CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(20 offres)</span>
+## BELGIUM <span style='color:gray'>(21 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ALTEN | System and V&V Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248384) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
 UCB PHARMA | Business Excellence Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | Embedded Software Developer C++  (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246842) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
 PRODUCT DEVELOPMENT EMPLOYENEURSHIP | R&D Engineer - Lithography (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/238353) | [klaudia.wawrzyczek@tmceurope.com](klaudia.wawrzyczek@tmceurope.com) | N/A
@@ -77,7 +81,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(14 offres)</span>
+## UNITED STATES <span style='color:gray'>(13 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -96,7 +100,6 @@ AIRBUS | Fuselage Repair Workflow Manager (H/F) | [BF](https://mon-vie-via.busin
 M&L DISTRIBUTION (FRANCE) S.A.R.L. | Internal Audit, Controls & AI Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247753) | N/A | [Lien](https://careers-group.loccitane.com/Multibrands/job/Geneve-VIE-NYC-Internal-Audit%2C-Controls-&amp;-AI-Analyst-Gene/1452843133/)
 PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie-via.businessfrance.fr/offres/246662) | [plwhr@planisware.com](plwhr@planisware.com) | N/A
 LIM FRANCE | Business Operations (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246402) | [awedderburn@lim-group.com](awedderburn@lim-group.com) | N/A
-EFE INTERNATIONAL | Full Stack Software Engineer I (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245393) | [contact@efe-international.org](contact@efe-international.org) | N/A
 <!-- Fin des offres pour le UNITED STATES -->
 
 <!-- Title SWITZERLAND -->
