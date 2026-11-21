@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 20/11/2026
+**Dernière mise à jour:** 21/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -19,7 +19,7 @@ B2C ENGINEERING | Business Developer (H/F) | BELGIUM | [BF](https://mon-vie-via.
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(10 offres)</span>
+## CANADA <span style='color:gray'>(9 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
@@ -34,7 +34,6 @@ RATP DEVELOPPEMENT | Requirements Engineer (H/F) | [BF](https://mon-vie-via.busi
 ASTEK FRANCE | Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247713) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 ASTEK FRANCE | Développeur IA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247699) | [anthony.gicquel@astek.net](anthony.gicquel@astek.net) | N/A
 V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247297) | [sabrina.dragut@vo2-group.com](sabrina.dragut@vo2-group.com) | N/A
-CS GROUP - FRANCE | Ingénieur Validation et Vérification (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247296) | N/A | [Lien](https://smrtr.io/CrC84)
 <!-- Fin des offres pour le CANADA -->
 
 <!-- Title BELGIUM -->
