@@ -4,7 +4,7 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 22/11/2026
+**Dernière mise à jour:** 23/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
@@ -38,12 +38,14 @@ V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-v
 
 <!-- Title BELGIUM -->
 
-## BELGIUM <span style='color:gray'>(16 offres)</span>
+## BELGIUM <span style='color:gray'>(18 offres)</span>
 
 <!-- Ici les offres pour le BELGIUM -->
 
 |                Company                |                       Mission                       |                          bf_link                          |                                      Contact                                       |                                                                                                                                  Link                                                                                                                                   |
 | :-----------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+AUDENSIEL NORD | JUNIOR PMO ANALYST (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248520) | N/A | [Lien](https://apply.creamconsulting.com/?pid=e3Xu7hpzioMPr3XKcR2XASbv2fflpM1BVogLSnihx0A%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=ak9eD4yxwhLuuPDNemtsuyJmAFmChwZCELqiidxOIEk%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
+AUDENSIEL NORD | BUSINESS ANALYST / MOA (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248518) | N/A | [Lien](https://apply.creamconsulting.com/?pid=oiU1trX3V5gyyGRC5VDjck6wFGljM0SBLHUm39SkjHE%3D&s=u0LXFsx7g9CCAgP0tNP4kw%3D%3D&t=v%2FdrzJ5yS4Mg3O9F2wLmkFRV3hoT25hPZn0HoNoosHQ%3D&jaid=PvMWZjCZ%2FIl8OsrPLu4KHC62Fce5HMSLkOVD1GkzEDA%3D&jan=cfbgFzQzZXMfH1uOV3dAJA%3D%3D)
 ELSYS DESIGN | Ingénieur Validation Silicium – Belgique (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247148) | [vie-belgique@advans-group.com](vie-belgique@advans-group.com) | N/A
 ALTEN | System and V&V Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248384) | [quentin.tafforeau@alten.com](quentin.tafforeau@alten.com) | N/A
 UCB PHARMA | Business Excellence Data Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247284) | N/A | [Lien](https://careers.ucb.com/global/en/job/94398/VIE-Business-Excellence-Data-Analyst)
@@ -75,7 +77,7 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 
 <!-- Title UNITED STATES -->
 
-## UNITED STATES <span style='color:gray'>(13 offres)</span>
+## UNITED STATES <span style='color:gray'>(12 offres)</span>
 
 <!-- Ici les offres pour le UNITED STATES -->
 
@@ -84,7 +86,6 @@ PONTICELLI FRERES | Cybersecurity Governance & Compliance Engineer (H/F) | [BF](
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246978) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8534363-vie-solutions-engineer-los-angeles?promotion=2242315-trackable-share-link-business-france-vie-se-los-angeles-nea-csm)
 ATEME | Solutions Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/246724) | [f.dumas@ateme.com](f.dumas@ateme.com) | [Lien](https://careers.ateme.com/en-GB/jobs/8501783-vie-solutions-engineer-north-america?promotion=2230512-trackable-share-link-business-france-vie)
 SERVICES TECHNIQUES SCHLUMBERGER | Data Scientist - Artificial Intelligence Engineer (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248505) | [bligertwood@slb.com](bligertwood@slb.com) | N/A
-BAXTER S.A.S | Implementation Engineering Analyst (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248389) | [kevin_kitchens@baxter.com](kevin_kitchens@baxter.com) | N/A
 EFE INTERNATIONAL | AI GTM ENGINEER (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247224) | [contact@efe-international.org](contact@efe-international.org) | N/A
 EFE INTERNATIONAL | Ingénieur logiciel IA, Member of Technical Staff (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245853) | [contact@efe-international.org](contact@efe-international.org) | N/A
 BOUYGUES | Business Analyst Media, Telecom & Innovation (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248209) | [admin@winnovation.net](admin@winnovation.net) | N/A
