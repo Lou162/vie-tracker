@@ -4,29 +4,31 @@ Daily scraper that collects and tracks IT VIE opportunities across multiple coun
 
 <!-- Date de mise à jour -->
 
-**Dernière mise à jour:** 26/11/2026
+**Dernière mise à jour:** 27/11/2026
 
 <!-- Title 🏆most Recent 🏆 -->
 
-## 🏆most Recent 🏆 <span style='color:gray'>(2 offres)</span>
+## 🏆most Recent 🏆 <span style='color:gray'>(3 offres)</span>
 
 <!-- Ici les offres pour le 🏆most Recent 🏆 -->
 
 |   Company   |            Mission             | Country |                          bf_link                          |                     Contact                      | Link |
 | :---------: | :----------------------------: | :-----: | :-------------------------------------------------------: | :----------------------------------------------: | ---- |
-PARKER HANNIFIN MANUFACTURING FRANCE | Analyste Pricing F/H (H/F) | SWITZERLAND | [BF](https://mon-vie-via.businessfrance.fr/offres/248784) | [Alexandra.MARTIN@parker.com](Alexandra.MARTIN@parker.com) | N/A
-CS GROUP - FRANCE | Ingénieur systèmes – Intégration et déploiement de systèmes de commandement et de contrôle (C2) pour la défense (H/F) | CANADA | [BF](https://mon-vie-via.businessfrance.fr/offres/248782) | N/A | [Lien](https://smrtr.io/C-QxC)
+AYES SUD-OUEST | AI & Machine Learning Engineer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/248830) | [soline.bleeckx@ayesconsulting.com](soline.bleeckx@ayesconsulting.com) | N/A
+JANSSEN CILAG | Support Scientist, Study Toxicology (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/248816) | [bfeyen@its.jnj.com](bfeyen@its.jnj.com) | N/A
+AKKODIS HIGH TECH SAS | AI & Data Transformation Project Officer (H/F) | BELGIUM | [BF](https://mon-vie-via.businessfrance.fr/offres/248814) | [rem.braspenning@akkodis.com](rem.braspenning@akkodis.com) | N/A
 <!-- Fin des offres pour le 🏆most Recent 🏆 -->
 
 <!-- Title CANADA -->
 
-## CANADA <span style='color:gray'>(9 offres)</span>
+## CANADA <span style='color:gray'>(10 offres)</span>
 
 <!-- Ici les offres pour le CANADA -->
 
 |         Company         |                     Mission                     |                          bf_link                          |                                             Contact                                              |             Link             |
 | :---------------------: | :---------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------: |
 CITYPASSENGER | DEVELOPPEUR SYSTEMES ET RESEAUX (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/228347) | [bduval@citypassenger.com](bduval@citypassenger.com) | [Lien](rh@citypassenger.com)
+CS GROUP - FRANCE | Ingénieur systèmes – Intégration et déploiement de systèmes de commandement et de contrôle (C2) pour la défense (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248782) | N/A | [Lien](https://smrtr.io/C-QxC)
 V02 GROUP | CONSULTANT FONCTIONNEL CRM SALESFORCE (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/247297) | [sabrina.dragut@vo2-group.com](sabrina.dragut@vo2-group.com) | N/A
 ACENSI SAS | Développeur(se) Full Stack Java / Spring Boot & Vue.js, développement assisté par IA (Claude Code) (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248386) | [quentin.dubois@acensi.ca](quentin.dubois@acensi.ca) | N/A
 CS GROUP - FRANCE | INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248276) | N/A | [Lien](https://smrtr.io/z4zSQ)
@@ -107,7 +109,7 @@ PLANISWARE | CONSULTANT(E) (M/F) (H/F) - Philadelphia, PA | [BF](https://mon-vie
 
 |  Company   |         Mission         |                          bf_link                          |                              Contact                               |                                                 Link                                                  |
 | :--------: | :---------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-CA INDOSUEZ | VIE - HR Data & Process Analyst H/F (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/245650) | N/A | [Lien](https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115336/?idOrigine=192494)
+PARKER HANNIFIN MANUFACTURING FRANCE | Analyste Pricing F/H (H/F) | [BF](https://mon-vie-via.businessfrance.fr/offres/248784) | [Alexandra.MARTIN@parker.com](Alexandra.MARTIN@parker.com) | N/A
 <!-- Fin des offres pour le SWITZERLAND -->
 
 <!-- Title NETHERLANDS -->
